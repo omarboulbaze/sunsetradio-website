@@ -24,8 +24,8 @@
 <meta name="og:image" content="https://i.imgur.com/DwtzhmQ.png">
 
 <!-- STYLES -->
-<link rel="stylesheet" type="text/css" href="./0bootstrap/bootstrap.min.css"/>
-<link href="./0fontawesome/css/all.css" rel="stylesheet" />
+<link rel="stylesheet" type="text/css" href="./abootstrap/bootstrap.min.css"/>
+<link href="./afontawesome/css/all.css" rel="stylesheet" />
 <link rel="stylesheet" type="text/css" href="./style/style.css"/>
 
 <!-- FAVICON -->
