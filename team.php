@@ -106,8 +106,7 @@
 <div class="btn-group" role="group" aria-label="First group">
     <a href="#teamDirection"><button type="button" class="btn btn-warning bg-direction color-direction">Direction</button></a>
     <a href="#teamAnimation"> <button type="button" class="btn btn-secondary bg-animation color-animation">Animation</button></a>
-    <a href="#teamModo"><button type="button" class="btn btn-info bg-modo color-modo">Modération</button></a>
-    <a href="#teamSpecial"><button type="button" class="btn btn-warning bg-special color-special">Postes spéciaux</button></a>
+    <a href="#teamModo"><button type="button" class="btn btn-info bg-modo color-modo">Assistance</button></a>
   </div>
 
 </div>
@@ -131,7 +130,7 @@
                                     src="https://images-ext-2.discordapp.net/external/PQAXTig9exXcCqGNjfvDgdPo70jWct490Djs4VGHTEA/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/722830975624544327/85f28550f5924d0521b0956839811548.png" 
                                     alt="card image"></p>
                                     <h1 class="card-title  color-direction ">Maïa</h1>
-                                    <h4 class="card-text"><b>Responsable Équipe</b></h4>
+                                    <h4 class="card-text"><b>Fondatrice</b></h4>
                                     
                                 </div>
                             </div>
@@ -140,9 +139,7 @@
                             <div class="card">
                                 <div class="card-body text-center mt-4">
                                     <h4 class="card-title  color-direction">Maïa</h4>
-                                    <p class="card-text">Maïa est la fameuse créatrice et première directrice de votre Radio : Sunset Radio. Elle est chargée de gérer l'administration,
-                                       le bon fonctionnement ainsi que le développement constant de la Radio. Elle est également animatrice radio, vous pourrez donc la retrouver
-                                       à certaines heures lors de programmes spéciaux qu'elle aura organisés.</p>
+                                    <p class="card-text bigCardText">Fondatrice de Sunset Radio</p>
                                 </div>
                             </div>
                         </div>
@@ -150,34 +147,7 @@
                 </div>
             </div>
             <!-- /MEMBRE DIRECTION -->
-            <!-- MEMBRE DIRECTION -->
-            <div class="col-xs-12 col-sm-6 col-md-4">
-                <div class="image-flip" >
-                    <div class="mainflip flip-0">
-                        <div class="frontside">
-                            <div class="card">
-                                <div class="card-body text-center">
-                                    <p><img class=" roundImg"
-src="https://images-ext-2.discordapp.net/external/l4dIn42kZfxLxXVtBZlcWdrPuVZLOhRSu27sIL0Ldmc/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/701490391152721980/8ff474741ceab335228072d1053ec076.png?width=671&height=671"
-                                     alt="card image"></p>
-                                    <h1 class="card-title  color-direction ">Caden</h1>
-                                    <h4 class="card-text"><b>Responsable Recrutement</b></h4>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="backside">
-                            <div class="card">
-                                <div class="card-body text-center mt-4">
-                                    <h4 class="card-title  color-direction">Caden</h4>
-                                    <p class="card-text">Caden est le second directeur de Sunset Radio. Il a pour rôle de gérer l'administration,
-                                       le bon fonctionnement mais également le développement constant de la Radio ainsi que le recrutement de tous les membres du staff.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- /MEMBRE DIRECTION -->
+           
             <!-- MEMBRE DIRECTION -->
             <div class="col-xs-12 col-sm-6 col-md-4">
                 <div class="image-flip" >
@@ -190,7 +160,7 @@ src="https://images-ext-2.discordapp.net/external/l4dIn42kZfxLxXVtBZlcWdrPuVZLOh
                                      
                                      alt="card image"></p>
                                     <h1 class="card-title  color-direction ">Kruser</h1>
-                                    <h4 class="card-text"><b>Responsable Radio</b></h4>
+                                    <h4 class="card-text"><b>Développeur</b></h4>
                                 </div>
                             </div>
                         </div>
@@ -198,8 +168,7 @@ src="https://images-ext-2.discordapp.net/external/l4dIn42kZfxLxXVtBZlcWdrPuVZLOh
                             <div class="card">
                                 <div class="card-body text-center mt-4">
                                     <h4 class="card-title  color-direction">Kruser</h4>
-                                    <p class="card-text"> Kruser est le second animateur et troisième directeur de Sunset Radio. Il a pour rôle de gérer l'administration,
-                                       le bon fonctionnement mais également le développement constant de la radio.</p>
+                                    <p class="card-text bigCardText">En charge du développement</p>
                                 </div>
                             </div>
                         </div>
@@ -230,8 +199,7 @@ src="https://images-ext-2.discordapp.net/external/l4dIn42kZfxLxXVtBZlcWdrPuVZLOh
                             <div class="card">
                                 <div class="card-body text-center">
                                     <p><img class=" roundImg" 
-                                    src="https://cdn.discordapp.com/avatars/511996112098426895/a_34f328003cac9497c240125091b4414e.gif?size=4096"
-                                    alt="card image"></p>
+src="https://imgur.com/pQM1muR.jpg"                                    alt="card image"></p>
                                     <h1 class="card-title  color-animation ">Linkin</h1>
                                     <h4 class="card-text"><b>Responsable Animation</b></h4>
                                 </div>
@@ -241,38 +209,7 @@ src="https://images-ext-2.discordapp.net/external/l4dIn42kZfxLxXVtBZlcWdrPuVZLOh
                             <div class="card">
                                 <div class="card-body text-center mt-4">
                                     <h4 class="card-title  color-animation">Linkin</h4>
-                                    <p class="card-text">Linkin est la troisième animatrice de Sunset Radio. Elle a pour rôle, tout comme Kruser et Maia,
-                                       de passer de la musique sur la radio mais également de proposer des sondages, animations, jeux ainsi que des émissions en direct aux auditeurs.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- /MEMBRE ANIMATION -->
-
-             <!-- MEMBRE ANIMATION -->
-             <div class="col-xs-12 col-sm-6 col-md-4">
-                <div class="image-flip" >
-                    <div class="mainflip flip-0">
-                        <div class="frontside">
-                            <div class="card">
-                                <div class="card-body text-center">
-                                    <p><img class=" roundImg" 
-                                    src="https://images-ext-1.discordapp.net/external/AH0QWSlt7qMCiseBU_717nL__q1RCe8Ksp1hbs7_LUo/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/389472518504972288/a59fc181daa30b7c0dc87f2fc7bcc57c.png"
-                                    alt="card image"></p>
-                                    <h1 class="card-title  color-animation ">Senhin</h1>
-                                    <h4 class="card-text"><b>Animatrice</b></h4>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="backside">
-                            <div class="card">
-                                <div class="card-body text-center mt-4">
-                                    <h4 class="card-title  color-animation">Senhin</h4>
-                                    <p class="card-text">Senhin est également animatrice chez Sunset Radio. Elle a pour rôle, tout comme les autres animateurs,
-                                     de passer de la musique sur la radio mais aussi de proposer des sondages, animations, 
-                                     jeux ainsi que des émissions en direct aux auditeurs. </p>
+                                    <p class="card-text bigCardText">J'assure la cohérence et la communication entre animateurs</p>
                                 </div>
                             </div>
                         </div>
@@ -292,7 +229,7 @@ src="https://images-ext-2.discordapp.net/external/l4dIn42kZfxLxXVtBZlcWdrPuVZLOh
 src="https://images-ext-2.discordapp.net/external/sOl_0sj69WAbJAPRkJB7oYMs2q7Lnv-H0Ps6kEF55_Q/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/406465771321950208/a1812ff3db48e744f373f03c9d146ea8.png"
                                     alt="card image"></p>
                                     <h1 class="card-title  color-animation ">Emil</h1>
-                                    <h4 class="card-text"><b>Responsable Jingle</b></h4>
+                                    <h4 class="card-text"><b>Animateur</b></h4>
                                 </div>
                             </div>
                         </div>
@@ -300,7 +237,35 @@ src="https://images-ext-2.discordapp.net/external/sOl_0sj69WAbJAPRkJB7oYMs2q7Lnv
                             <div class="card">
                                 <div class="card-body text-center mt-4">
                                     <h4 class="card-title  color-animation">Emil</h4>
-                                    <p class="card-text">Emil est le responsable des jingles de Sunset Radio. Il a pour rôle de créer des jingles pour les différents programmes proposés par les animateurs. Il se chargera de la création du jingle mais également de son partage auprès de l'équipe d'animation.</p>
+                                    <p class="card-text bigCardText">Je crie beaucoup pendant mes émissions</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- /MEMBRE ANIMATION -->
+
+              <!-- MEMBRE ANIMATION -->
+              <div class="col-xs-12 col-sm-6 col-md-4">
+                <div class="image-flip" >
+                    <div class="mainflip flip-0">
+                        <div class="frontside">
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <p><img class=" roundImg" 
+src="https://cdn.discordapp.com/avatars/399308415123587084/6bc2dd95bb4f7dfd9bf456b4ed689bde.png?size=4096"
+                                    alt="card image"></p>
+                                    <h1 class="card-title  color-animation ">Valentin</h1>
+                                    <h4 class="card-text"><b>Animateur</b></h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="backside">
+                            <div class="card">
+                                <div class="card-body text-center mt-4">
+                                    <h4 class="card-title  color-animation">Valentin</h4>
+                                    <p class="card-text bigCardText">J'essaie de calmer Emil qui crie beaucoup pendant ses émissions</p>
                                 </div>
                             </div>
                         </div>
@@ -320,120 +285,115 @@ src="https://images-ext-2.discordapp.net/external/sOl_0sj69WAbJAPRkJB7oYMs2q7Lnv
 <!-- /ANIMATION -->
 
 
-<!-- MODÉRATION -->
+<!-- ASSISTANCE -->
 <section id="teamModo" class="pb-5">
     <div class="container">
-        <h5 class="section-direction h1 color-modo">Modération</h5>
+        <h5 class="section-direction h1 color-modo">Assistance</h5>
         <div class="row">
-            <!-- MEMBRE MODÉRATION -->
             
-            <div class="col-xs-12 col-sm-6 col-md-4">
-                <div class="image-flip" >
-                    <div class="mainflip flip-0">
-                        <div class="frontside">
-                            <div class="card">
-                                <div class="card-body text-center">
-                                    <p><img class=" roundImg" 
-                                    src="https://images-ext-2.discordapp.net/external/lTqDanDh3Ilx4ZXh-uFNUGJA4_hkio7j4myBAhXXN3I/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/702956108574359666/9cf228b31fee6a84307c8ace6bdfb732.png"
-                                    alt="card image"></p>
-                                    <h1 class="card-title  color-modo ">Sarah</h1>
-                                    <h4 class="card-text"><b>Responsable Modération</b></h4>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="backside">
-                            <div class="card">
-                                <div class="card-body text-center mt-4">
-                                    <h4 class="card-title  color-modo">Sarah</h4>
-                                    <p class="card-text">Sarah est la première modératrice de Sunset Radio. Elle a pour rôle de veiller à la bonne ambiance 
-                                      au sein du serveur Discord. Ainsi, elle sera susceptible de mute, exclure ou même bannir les personnes ayant un comportement inacceptable. Mais ne vous en faites pas,
-                                       elle est adorable en vrai !</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- /MEMBRE MODÉRATION -->
 
-<!-- MEMBRE MODÉRATION -->
-            
+<!-- MEMBRE ASSISTANCE -->
+
 <div class="col-xs-12 col-sm-6 col-md-4">
-                <div class="image-flip" >
-                    <div class="mainflip flip-0">
-                        <div class="frontside">
-                            <div class="card">
-                                <div class="card-body text-center">
-                                    <p><img class=" roundImg" 
-src="https://cdn.discordapp.com/avatars/529325441027145743/9e8a8eae52d51253ffaf6b62d0b25ef6.png?size=4096"          
-                          alt="card image"></p>
-                                    <h1 class="card-title  color-modo ">PepiteOr</h1>
-                                    <h4 class="card-text"><b>Modérateur</b></h4>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="backside">
-                            <div class="card">
-                                <div class="card-body text-center mt-4">
-                                    <h4 class="card-title  color-modo">PepiteOr</h4>
-                                    <p class="card-text">
-                                    Théo, sous son vrai nom, est le second modérateur de Sunset Radio.
-                                     Il aura les mêmes responsabilités que sa responsable Sarah.
-                                    
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
+    <div class="image-flip" >
+        <div class="mainflip flip-0">
+            <div class="frontside">
+                <div class="card">
+                    <div class="card-body text-center">
+                        <p><img class=" roundImg" 
+src="https://i.imgur.com/4DRAIB7.png"         
+            alt="card image"></p>
+                        <h1 class="card-title  color-modo ">Juline</h1>
+                        <h4 class="card-text"><b>Modératrice</b></h4>
                     </div>
                 </div>
             </div>
-            <!-- /MEMBRE MODÉRATION -->
+            <div class="backside">
+                <div class="card">
+                    <div class="card-body text-center mt-4">
+                        <h4 class="card-title  color-modo">Juline</h4>
+                        <p class="card-text bigCardText">
+                       Je suis à l'écoute de la communauté, prête à répondre à vos questions
+                        
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- /MEMBRE ASSISTANCE -->
 
+
+<!-- MEMBRE ASSISTANCE -->
+
+<div class="col-xs-12 col-sm-6 col-md-4">
+    <div class="image-flip" >
+        <div class="mainflip flip-0">
+            <div class="frontside">
+                <div class="card">
+                    <div class="card-body text-center">
+                        <p><img class=" roundImg" 
+src="https://cdn.discordapp.com/avatars/529325441027145743/9e8a8eae52d51253ffaf6b62d0b25ef6.png?size=4096"
+            alt="card image"></p>
+                        <h1 class="card-title  color-modo ">PepiteOr</h1>
+                        <h4 class="card-text"><b>Modérateur</b></h4>
+                    </div>
+                </div>
+            </div>
+            <div class="backside">
+                <div class="card">
+                    <div class="card-body text-center mt-4">
+                        <h4 class="card-title  color-modo">PepiteOr</h4>
+                        <p class="card-text bigCardText">
+                       Je m'occupe de la promotion des évènements de Sunset Radio
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- /MEMBRE ASSISTANCE -->
+
+<!-- MEMBRE ASSISTANCE -->
+
+<div class="col-xs-12 col-sm-6 col-md-4">
+    <div class="image-flip" >
+        <div class="mainflip flip-0">
+            <div class="frontside">
+                <div class="card">
+                    <div class="card-body text-center">
+                        <p><img class=" roundImg" 
+src="https://cdn.discordapp.com/avatars/395992189500522496/c3b4c484275d94f19cee548e5fa7f2f0.png?size=4096"
+            alt="card image"></p>
+                        <h1 class="card-title  color-modo ">Zoug</h1>
+                        <h4 class="card-text"><b>Modératrice</b></h4>
+                    </div>
+                </div>
+            </div>
+            <div class="backside">
+                <div class="card">
+                    <div class="card-body text-center mt-4">
+                        <h4 class="card-title  color-modo">Zoug</h4>
+                        <p class="card-text bigCardText">
+                        J'aime aider les gens et faire régner la bonne humeur
+                        
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- /MEMBRE ASSISTANCE -->
 
 </section>    
-<!-- /MODÉRATION -->
+<!-- /ASSISTANCE -->
 
 
 
 
-<!-- POSTES SPÉCIAUX -->
-<section id="teamSpecial" class="pb-5">
-    <div class="container">
-        <h5 class="section-direction h1 color-special">Postes spéciaux</h5>
-        <div class="row">
-            <!-- MEMBRE -->
-            <div class="col-xs-12 col-sm-6 col-md-4">
-                <div class="image-flip" >
-                    <div class="mainflip flip-0">
-                        <div class="frontside">
-                            <div class="card">
-                                <div class="card-body text-center">
-                                    <p><img class=" roundImg" 
-src="https://images-ext-1.discordapp.net/external/q1W27Rn9mgV1HH9QNu1fxZV_Ka50qny9s4daIw1mE-Y/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/302432286622744608/93b831c2025c01e5843e8a4d1790301a.png?width=671&height=671"
-                                    alt="card image"></p>
-                                    <h1 class="card-title  color-special ">Juline</h1>
-                                    <h4 class="card-text"><b>Radio Planner</b></h4>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="backside">
-                            <div class="card">
-                                <div class="card-body text-center mt-4">
-                                    <h4 class="card-title  color-special">Juline</h4>
-                                    <p class="card-text">Juline est la radio planner de l'équipe de Sunset Radio. Elle a pour rôle de gérer le Google Doc des programmes radios.
-                                       C'est-à-dire qu'elle réalisera, chaque semaine, le planning des émissions qu'elle partagera avec les animateurs et les auditeurs.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- /MEMBRE -->
-
-          
-
-</section>     
-<!-- /POSTES SPÉCIAUX -->
 
 
 

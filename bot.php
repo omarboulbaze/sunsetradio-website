@@ -28,7 +28,7 @@
 <link href="./afontawesome/css/all.css" rel="stylesheet" />
 <link rel="stylesheet" type="text/css" href="./style/style.css"/>
 
-<!-- FAVICON -->
+<!-- FAVICON -->  
 <link rel="shortcut icon" type="image/png" href="https://i.imgur.com/DwtzhmQ.png"/>
 
 <!-- FONTS -->

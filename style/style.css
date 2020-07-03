@@ -245,6 +245,7 @@ section .section-direction {
   -webkit-box-shadow: 5px 7px 9px -4px rgb(158, 158, 158);
   -moz-box-shadow: 5px 7px 9px -4px rgb(158, 158, 158);
   box-shadow: 5px 7px 9px -4px rgb(158, 158, 158);
+  min-width: 12rem;
 }
 
 .frontside,
@@ -568,7 +569,9 @@ animation-name: slideInRight;
 
 
 
-
+.bigCardText{
+  font-size: 2rem;
+}
 
 
 

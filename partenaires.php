@@ -163,7 +163,7 @@
               Le projet a connu beaucoup de soutien, et encore aujourd’hui le projet est soutenu 
               par beaucoup de personnes car Empire Campus possède tout et a le mérite d’être un bon RPG !</p>
               <a href="https://discord.gg/QqytVjq" target="_blank">REJOINDRE</a> </div>
-            <div class="col-md-5 col-12 order-md-2 order-1"><img src="https://media.discordapp.net/attachments/716293265388732516/724612230657736764/Empire_Campus_Logo.jpg" class="mx-auto roundImg" alt="slide"></div>
+            <div class="col-md-5 col-12 order-md-2 order-1"><img src="https://cdn.discordapp.com/icons/716340603339669534/0cb66c14969cee62cf5b07ab78afabe9.png?size=2048" class="mx-auto roundImg" alt="slide"></div>
           </div>
         </div>
       </div>

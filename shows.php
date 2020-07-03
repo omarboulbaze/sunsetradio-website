@@ -111,32 +111,32 @@
 <div class="container mb-5 mx-auto">
 
 
+
 <!-- SHOW DÉBUT -->
-<div class="d-flex justify-content-center">
+<div  class="d-flex justify-content-center">
 <div class="card mx-3" style="width: 1000px">
   <div class="row no-gutters">
     <div class="col-md-4">
-      <img src="./image/blindtest.jpg" class="card-img" alt="...">
+      <img src="./image/lamatinale.jpg" class="card-img resize" alt="...">
     </div>
     <div class="col-md-8">
       <div class="card-body">
-        <h1 class="card-title">Blind Test</h1>
-        <h3 class="card-text"><span class="badge badge-pill badge-danger">JEU</span> </h3>
-        <h5 class="card-text">Durée : <span class="badge badge-pill badge-info">60 min</span> </h5>
+        <h1 class="card-title">La Matinale</h1>
+        <h3 class="card-text"><span class="badge badge-pill badge-danger">EN DIRECT</span> </h3>
+        <h5 class="card-text">Durée : <span class="badge badge-pill badge-info">1h 30min</span> </h5>
 <br>
-        <h3 class="card-text">Présenté par <b>Linkin</b></h3>
-        <p class="card-text">Le Blind Test est un jeu dont le but consiste à deviner l'interprète, le titre ou l'année d'un morceau à partir d'un enregistrement musical diffusé en direct sur Sunset Radio.</p>
+<h3 class="card-text">Présenté par <b>EMIL</b></h3>
+
+        <p class="card-text">Sunset Radio vous réveille avec de la bonne humeur,
+         des jeux et des hits du moment pour bien commencer la journée !</p>
         <br>
-                <h4 class="card-text">Dernier vainqueur : <span class="badge badge-pill badge-success">Juline</span>
-                
       </div>
     </div>
   </div>
 </div>
 </div>
+
 <!-- SHOW FIN -->
-
-
 
 
 <!-- SHOW DÉBUT -->
@@ -166,6 +166,37 @@
 
 
 <!-- SHOW DÉBUT -->
+<div class="d-flex justify-content-center">
+<div class="card mx-3" style="width: 1000px">
+  <div class="row no-gutters">
+    <div class="col-md-4">
+      <img src="./image/blindtest.jpg" class="card-img" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h1 class="card-title">Blind Test</h1>
+        <h3 class="card-text"><span class="badge badge-pill badge-danger">JEU</span> </h3>
+        <h5 class="card-text">Durée : <span class="badge badge-pill badge-info">60 min</span> </h5>
+<br>
+        <h3 class="card-text">Présenté par <b>Linkin</b></h3>
+        <p class="card-text">Le Blind Test est un jeu dont le but consiste à deviner l'interprète, le titre ou l'année d'un morceau à partir d'un enregistrement musical diffusé en direct sur Sunset Radio.</p>
+        <br>
+                <h4 class="card-text">Dernier vainqueur : <span class="badge badge-pill badge-success">Juline</span>
+                
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+<!-- SHOW FIN -->
+
+
+
+
+
+
+
+<!-- SHOW DÉBUT -->
 <div  class="d-flex justify-content-center">
 <div class="card mx-3" style="width: 1000px">
   <div class="row no-gutters">
@@ -190,31 +221,6 @@
 
 <!-- SHOW FIN -->
 
-<!-- SHOW DÉBUT -->
-<div  class="d-flex justify-content-center">
-<div class="card mx-3" style="width: 1000px">
-  <div class="row no-gutters">
-    <div class="col-md-4">
-      <img src="./image/lamatinale.jpg" class="card-img resize" alt="...">
-    </div>
-    <div class="col-md-8">
-      <div class="card-body">
-        <h1 class="card-title">La Matinale</h1>
-        <h3 class="card-text"><span class="badge badge-pill badge-danger">EN DIRECT</span> </h3>
-        <h5 class="card-text">Durée : <span class="badge badge-pill badge-info">1h 30min</span> </h5>
-<br>
-<h3 class="card-text">Présenté par <b>EMIL</b></h3>
-
-        <p class="card-text">Sunset Radio vous réveille avec de la bonne humeur,
-         des jeux et des hits du moment pour bien commencer la journée !</p>
-        <br>
-      </div>
-    </div>
-  </div>
-</div>
-</div>
-
-<!-- SHOW FIN -->
 
 </div>
 </div>
