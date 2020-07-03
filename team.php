@@ -199,7 +199,7 @@
                             <div class="card">
                                 <div class="card-body text-center">
                                     <p><img class=" roundImg" 
-src="https://imgur.com/pQM1muR.jpg"                                    alt="card image"></p>
+src="https://images-ext-2.discordapp.net/external/IjPChTexgkMRZmCkLjHvevJXbfsE57BC84_akE_Zyo0/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/511996112098426895/a_4f6b07e59a92041afee83af7262ddfee.gif"                                    alt="card image"></p>
                                     <h1 class="card-title  color-animation ">Linkin</h1>
                                     <h4 class="card-text"><b>Responsable Animation</b></h4>
                                 </div>
@@ -301,7 +301,7 @@ src="https://cdn.discordapp.com/avatars/399308415123587084/6bc2dd95bb4f7dfd9bf45
                 <div class="card">
                     <div class="card-body text-center">
                         <p><img class=" roundImg" 
-src="https://i.imgur.com/4DRAIB7.png"         
+src="https://imgur.com/pQM1muR.jpg"         
             alt="card image"></p>
                         <h1 class="card-title  color-modo ">Juline</h1>
                         <h4 class="card-text"><b>Modératrice</b></h4>
