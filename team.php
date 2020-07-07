@@ -209,7 +209,7 @@ src="https://images-ext-2.discordapp.net/external/IjPChTexgkMRZmCkLjHvevJXbfsE57
                             <div class="card">
                                 <div class="card-body text-center mt-4">
                                     <h4 class="card-title  color-animation">Linkin</h4>
-                                    <p class="card-text bigCardText">J'assure la cohérence et la communication entre animateurs</p>
+                                    <p class="card-text bigCardText">Est entrain d'écrire...</p>
                                 </div>
                             </div>
                         </div>
