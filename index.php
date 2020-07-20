@@ -105,7 +105,7 @@
 <h1 class="text-center aventureSR">Sunset Radio débarque sur le WEB !</h1>
 <br><br>
 <div class="d-flex justify-content-center">
-<h1 class="text-center countdownSR" id="countdownSR" ></h1>
+<h1 class="text-center countdownSR" id="countdownSR"></h1>
 </div>
 <div class="d-flex justify-content-center">
 <iframe src="https://www.radioking.com/widgets/player/player.php?id=330331&c=%232C2A46&c2=%23F3C980&f=h&i=0&ii=null&p=1&s=0&li=1&popup=0&plc=NaN&h=undefined&l=30&a=1&v=2&fullsize" style="border-radius: 5px; min-width: 600px; min-height: 150px;   -webkit-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.3);-moz-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.3);box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.3);" frameBorder="0" ></iframe></div>

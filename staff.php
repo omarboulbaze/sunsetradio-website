@@ -16,6 +16,17 @@ if (!isset($_SESSION['id'])){
 <html lang="en">
 
 <head>
+
+
+<!-- OG META -->
+<meta property="og:site_name" content="www.sunsetradio.me">
+<meta property="og:url" content="https://www.sunsetradio.me/login">
+<meta property="og:title" content="Connectez-vous à la zone staff">
+<meta property="og:description" content="Sunset Radio, la radio 2.0 ! Rejoignez la communauté sur Discord et intéragissez avec les animateurs EN DIRECT !">
+<meta property="og:type" content="website">
+<meta name="og:image" content="https://i.imgur.com/DwtzhmQ.png">
+
+
   <meta charset="utf-8" />
   <link rel="apple-touch-icon" sizes="76x76" href="./assets/img/apple-icon.png">
 

@@ -156,7 +156,7 @@
                             <div class="card">
                                 <div class="card-body text-center">
                                     <p><img class=" img-fluid"
-                                     src="https://images-ext-1.discordapp.net/external/6CRB1EzPQRBEP8pjwJd7sd0AKw9UW67vfkZCP6pmPKM/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/330476603509571606/cfece33e90fb729a2dbd2860d11cec1a.png"
+                                     src="https://cdn.discordapp.com/avatars/330476603509571606/3e913a3dd126bef812b882b7a96c0ad7.png?size=4096"
                                      
                                      alt="card image"></p>
                                     <h1 class="card-title  color-direction ">Kruser</h1>
@@ -199,7 +199,8 @@
                             <div class="card">
                                 <div class="card-body text-center">
                                     <p><img class=" roundImg" 
-src="https://images-ext-2.discordapp.net/external/IjPChTexgkMRZmCkLjHvevJXbfsE57BC84_akE_Zyo0/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/511996112098426895/a_4f6b07e59a92041afee83af7262ddfee.gif"                                    alt="card image"></p>
+src="https://cdn.discordapp.com/avatars/511996112098426895/a_97ea187a12979505fc34d4dfcf10fc87.gif?size=4096"                                    
+alt="card image"></p>
                                     <h1 class="card-title  color-animation ">Linkin</h1>
                                     <h4 class="card-text"><b>Responsable Animation</b></h4>
                                 </div>
@@ -218,33 +219,6 @@ src="https://images-ext-2.discordapp.net/external/IjPChTexgkMRZmCkLjHvevJXbfsE57
             </div>
             <!-- /MEMBRE ANIMATION -->
 
-            <!-- MEMBRE ANIMATION -->
-            <div class="col-xs-12 col-sm-6 col-md-4">
-                <div class="image-flip" >
-                    <div class="mainflip flip-0">
-                        <div class="frontside">
-                            <div class="card">
-                                <div class="card-body text-center">
-                                    <p><img class=" roundImg" 
-src="https://images-ext-2.discordapp.net/external/sOl_0sj69WAbJAPRkJB7oYMs2q7Lnv-H0Ps6kEF55_Q/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/406465771321950208/a1812ff3db48e744f373f03c9d146ea8.png"
-                                    alt="card image"></p>
-                                    <h1 class="card-title  color-animation ">Emil</h1>
-                                    <h4 class="card-text"><b>Animateur</b></h4>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="backside">
-                            <div class="card">
-                                <div class="card-body text-center mt-4">
-                                    <h4 class="card-title  color-animation">Emil</h4>
-                                    <p class="card-text bigCardText">Je crie beaucoup pendant mes émissions</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- /MEMBRE ANIMATION -->
 
               <!-- MEMBRE ANIMATION -->
               <div class="col-xs-12 col-sm-6 col-md-4">
@@ -325,36 +299,6 @@ src="https://imgur.com/pQM1muR.jpg"
 <!-- /MEMBRE ASSISTANCE -->
 
 
-<!-- MEMBRE ASSISTANCE -->
-
-<div class="col-xs-12 col-sm-6 col-md-4">
-    <div class="image-flip" >
-        <div class="mainflip flip-0">
-            <div class="frontside">
-                <div class="card">
-                    <div class="card-body text-center">
-                        <p><img class=" roundImg" 
-src="https://cdn.discordapp.com/avatars/529325441027145743/9e8a8eae52d51253ffaf6b62d0b25ef6.png?size=4096"
-            alt="card image"></p>
-                        <h1 class="card-title  color-modo ">PepiteOr</h1>
-                        <h4 class="card-text"><b>Modérateur</b></h4>
-                    </div>
-                </div>
-            </div>
-            <div class="backside">
-                <div class="card">
-                    <div class="card-body text-center mt-4">
-                        <h4 class="card-title  color-modo">PepiteOr</h4>
-                        <p class="card-text bigCardText">
-                       Je m'occupe de la promotion des évènements de Sunset Radio
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- /MEMBRE ASSISTANCE -->
 
 <!-- MEMBRE ASSISTANCE -->
 
