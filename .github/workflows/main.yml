@@ -1,0 +1,17 @@
+on: push
+name: Publish Website over SFTP
+jobs:
+  FTP-Deploy-Action:
+    name: FTP-Deploy-Action
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2.1.0
+      with:
+        fetch-depth: 2
+
+    - name: FTP-Deploy-Action
+      uses: KruserG/sunsetWeb@v2.0
+      with:
+        ftp-server: ftp://ftp.sunsetradio.me/
+        ftp-username: sunsetra
+        ftp-password: ${{ secrets.FTP_PASSWORD }}
