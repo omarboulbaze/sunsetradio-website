@@ -3,7 +3,7 @@
 
 // Variables for connection
 
-$localhost = 'localhostwdwdw';
+$localhost = 'exclude pls';
 $username = 'root'; 
 $password = '';
 $dbname = 'sunset'; 
