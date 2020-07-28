@@ -14,4 +14,4 @@ jobs:
       with:
         ftp-server: ftp://ftp.sunsetradio.me/
         ftp-username: sunsetra
-        ftp-password: ${{ secrets.FTP_PASSWORD }}
+        ftp-password: ${{secrets.FTP_PASSWORD}}
