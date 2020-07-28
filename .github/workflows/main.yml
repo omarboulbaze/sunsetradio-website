@@ -15,4 +15,5 @@ jobs:
         ftp-server: ftp.sunsetradio.me/
         ftp-username: sunsetra
         ftp-password: ${{secrets.FTP_PASSWORD}}
-        git-ftp-args: --insecure 
+        git-ftp-args: --insecure
+        --remote-root: public_html  
