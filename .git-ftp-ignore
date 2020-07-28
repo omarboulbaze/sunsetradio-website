@@ -1,7 +1,6 @@
 .gitignore
 */.gitignore
-.vscode
-aboostrap
-afontawesome
-assets
-aw3
+aboostrap*
+afontawesome*
+assets*
+aw3*
