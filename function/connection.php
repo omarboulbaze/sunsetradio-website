@@ -3,7 +3,7 @@
 
 // Variables for connection
 
-$localhost = 'localddddhost';
+$localhost = 'localhost';
 $username = 'root'; 
 $password = '';
 $dbname = 'sunset'; 
