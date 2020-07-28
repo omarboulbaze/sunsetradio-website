@@ -5,14 +5,14 @@ jobs:
     name: FTP-Deploy-Action
     runs-on: ubuntu-latest
     steps:
-    - uses: SamKirkland/FTP-Deploy-Action@3.1.1
+    - uses: actions/checkout@v2.1.0
       with:
         fetch-depth: 2
 
     - name: FTP-Deploy-Action
-      uses: KruserG/sunsetWeb@v1
+      uses: SamKirkland/FTP-Deploy-Action@3.1.1
       with:
-         ftp-server: ftp://ftp.sunsetradio.me/
-         ftp-username: sunsetra
-         ftp-password: ${{secrets.FTP_PASSWORD}}
-         git-ftp-args: --insecure 
+        ftp-server: ftp.sunsetradio.me/
+        ftp-username: sunsetra
+        ftp-password: ${{secrets.SFTP_PASSWORD}}
+        git-ftp-args: --insecure 
