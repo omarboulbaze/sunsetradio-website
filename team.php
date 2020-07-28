@@ -220,33 +220,7 @@ alt="card image"></p>
             <!-- /MEMBRE ANIMATION -->
 
 
-              <!-- MEMBRE ANIMATION -->
-              <div class="col-xs-12 col-sm-6 col-md-4">
-                <div class="image-flip" >
-                    <div class="mainflip flip-0">
-                        <div class="frontside">
-                            <div class="card">
-                                <div class="card-body text-center">
-                                    <p><img class=" roundImg" 
-src="https://cdn.discordapp.com/avatars/399308415123587084/6bc2dd95bb4f7dfd9bf456b4ed689bde.png?size=4096"
-                                    alt="card image"></p>
-                                    <h1 class="card-title  color-animation ">Valentin</h1>
-                                    <h4 class="card-text"><b>Animateur</b></h4>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="backside">
-                            <div class="card">
-                                <div class="card-body text-center mt-4">
-                                    <h4 class="card-title  color-animation">Valentin</h4>
-                                    <p class="card-text bigCardText">J'essaie de calmer Emil qui crie beaucoup pendant ses émissions</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- /MEMBRE ANIMATION -->
+            
 
             
            
