@@ -1,2 +1,7 @@
 .gitignore
 */.gitignore
+.vscode
+aboostrap
+afontawesome
+assets
+aw3
