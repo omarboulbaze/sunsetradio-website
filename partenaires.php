@@ -119,39 +119,9 @@
 
 <div id="slidePartenaire" class="carousel slide carousel-fade" data-ride="carousel">
   <div class="carousel-inner">
+
+    <!-- Partenaire slide -->
     <div class="carousel-item active">
-      <div class="mask flex-center">
-        <div class="container">
-          <div class="row align-items-center">
-            <div class="col-md-7 col-12 order-md-1 order-2">
-              <h4>City<br>
-                Antenne</h4>
-              <p>CityAntenne est une chaîne télévisée de HabboCity.
-               Vous y retrouverez des émissions, des chroniques mais aussi des informations, 
-               tout ceka sur la plateforme YouTube. Sur notre serveur Discord, nous disposons 
-               de notre propre monnaie ainsi qu’une boutique. Des animations Discord sont fréquemment
-                proposées par nos animateurs. Nous avons une équipe compétente, impliquée dans le projet...</p>
-              <a href="https://discord.gg/bcD4UZT" target="_blank">REJOINDRE</a> </div>
-            <div class="col-md-5 col-12 order-md-2 order-1"><img src="https://images-ext-1.discordapp.net/external/1QxbqkHZyrdBJIlm0YHXSxcaNPRx7QldAlGVnTrR5aU/%3Fsize%3D2048/https/cdn.discordapp.com/icons/700100928212041829/880761868cd939a2c90117b26c77e609.png" class="mx-auto roundImg" alt="slide"></div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="carousel-item">
-      <div class="mask flex-center">
-        <div class="container">
-          <div class="row align-items-center">
-            <div class="col-md-7 col-12 order-md-1 order-2">
-              <h4>Habb<br>School</h4>
-              <p>HabbSchool est une organisation qui a été crée le 15 décembre 2019, pour le moment non officiel. L’organisation évolue petit à petit sur discord.
-                   HabbSchool est basé sur l’apprentissage, ainsi que l’actualité de HabboCity, il a pour but d’apprendre aux apprentis les bases de chaque pôle.</p>
-              <a href="https://discord.gg/DM78ryJ" target="_blank">REJOINDRE</a> </div>
-            <div class="col-md-5 col-12 order-md-2 order-1"><img src="https://images-ext-1.discordapp.net/external/iJAqZAXxbRkbffRoieEOQuQufqi81ZlQXw8Yz1A1GsU/%3Fsize%3D2048/https/cdn.discordapp.com/icons/655787116801818628/a_4228692921f1f4668291b211c86384f7.gif" class="mx-auto roundImg" alt="slide"></div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="carousel-item">
       <div class="mask flex-center">
         <div class="container">
           <div class="row align-items-center">
@@ -168,7 +138,42 @@
         </div>
       </div>
     </div>
-    
+    <!-- /Partenaire slide -->
+
+    <!-- Partenaire slide -->
+    <div class="carousel-item">
+      <div class="mask flex-center">
+        <div class="container">
+          <div class="row align-items-center">
+            <div class="col-md-7 col-12 order-md-1 order-2 pt-3">
+              <h4>City<br>
+              Troc</h4>
+              <p>Citytroc est une organisation officielle basée sur le troc­. C'est le rendez vous incontournable entre les troqueurs, les casinomans et même les amateurs ! 
+Le but principal est de vous enrichir et de vous permettre de faire des affaires ! Nous vous informons aussi de toutes nouveautés liées à l'économie.</p>
+              <a href="https://discord.gg/WpFtZEn" target="_blank">REJOINDRE</a> </div>
+            <div class="col-md-5 col-12 order-md-2 order-1"><img src="https://imgur.com/RJ6X7Mp.jpg" class="mx-auto roundImg" alt="slide"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- /Partenaire slide -->
+
+ <!-- Partenaire slide -->
+ <div class="carousel-item">
+      <div class="mask flex-center">
+        <div class="container">
+          <div class="row align-items-center">
+            <div class="col-md-7 col-12 order-md-1 order-2 pt-3">
+              <h4>Sunset<br>House</h4>
+              <p>L’organisation se base sur la construction, au profit des citoyens d’HabboCity, nous allons construire des maisons, appartements, et autres, et tout celà gratuitement.</p>
+              <a href="https://discord.gg/D6smnvK" target="_blank">REJOINDRE</a> </div>
+            <div class="col-md-5 col-12 order-md-2 order-1"><img src="https://imgur.com/KZ3ph9D.jpg" class="mx-auto roundImg" alt="slide"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- /Partenaire slide -->
+
   </div>
   <a class="carousel-control-prev" href="#slidePartenaire" role="button" data-slide="prev"> <span class="carousel-control-prev-icon" aria-hidden="true"></span> <span class="sr-only">Previous</span> </a> <a class="carousel-control-next" href="#slidePartenaire" role="button" data-slide="next"> <span class="carousel-control-next-icon" aria-hidden="true"></span> <span class="sr-only">Next</span> </a> </div>
 <!--slide end--> 
