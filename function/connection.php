@@ -2,7 +2,7 @@
 <?php 
 
 
-// Variables for connection
+// Variables for connection ddddddddd
 $localhost = 'localhost';
 $username = '${{secrets.DB_USERNAME}}'; 
 $password = '${{secrets.DB_PASSWORD}}';
