@@ -12,6 +12,7 @@ jobs:
     - name: FTP-Deploy-Action
       uses: KruserG/sunsetWeb@v1
       with:
-        ftp-server: ftp://ftp.sunsetradio.me/
-        ftp-username: sunsetra
-        ftp-password: ${{secrets.FTP_PASSWORD}}
+         ftp-server: ftp://ftp.sunsetradio.me/
+         ftp-username: sunsetra
+         ftp-password: ${{secrets.FTP_PASSWORD}}
+         git-ftp-args: --insecure 
