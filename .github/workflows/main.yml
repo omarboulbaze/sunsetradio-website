@@ -10,7 +10,7 @@ jobs:
         fetch-depth: 2
 
     - name: FTP-Deploy-Action
-      uses: KruserG/sunsetWeb@v2.0
+      uses: KruserG/sunsetWeb@v1
       with:
         ftp-server: ftp://ftp.sunsetradio.me/
         ftp-username: sunsetra
