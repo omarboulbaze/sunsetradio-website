@@ -134,7 +134,7 @@
 <section id="cmd3">
 <h1 class="text-center main"><span class="badge badge-danger">New</span> !info</h1>
 
-<h4 class="text-center subtext">Afficher le nombre d'auditeurs sur le site ainsi que dans tous les serveurs Discordsddud</h4>
+<h4 class="text-center subtext">Afficher le nombre d'auditeurs sur le site ainsi que dans tous les serveurs Discordsddddud</h4>
 </section>
 
 
