@@ -174,6 +174,22 @@ Le but principal est de vous enrichir et de vous permettre de faire des affaires
     </div>
     <!-- /Partenaire slide -->
 
+     <!-- Partenaire slide -->
+ <div class="carousel-item">
+      <div class="mask flex-center">
+        <div class="container">
+          <div class="row align-items-center">
+            <div class="col-md-7 col-12 order-md-1 order-2 pt-3">
+              <h4>City<br>Moove</h4>
+              <p>CityMoove est une organisation fondé par Noeline et Sun Depuis le 1er Juillet 2020. Nous nous basons  sur l’animation Discord mais aussi sur le rétro HabboCity ! Effectivement avant cela nous étions CityAntenne une chaîne télévisée. Nous avons changé le projet mais aussi l’équipe !</p>
+              <a href="https://discord.gg/XFMtdnr" target="_blank">REJOINDRE</a> </div>
+            <div class="col-md-5 col-12 order-md-2 order-1"><img src="https://imgur.com/r4R2Not.jpg" class="mx-auto roundImg" alt="slide"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- /Partenaire slide -->
+
   </div>
   <a class="carousel-control-prev" href="#slidePartenaire" role="button" data-slide="prev"> <span class="carousel-control-prev-icon" aria-hidden="true"></span> <span class="sr-only">Previous</span> </a> <a class="carousel-control-next" href="#slidePartenaire" role="button" data-slide="next"> <span class="carousel-control-next-icon" aria-hidden="true"></span> <span class="sr-only">Next</span> </a> </div>
 <!--slide end--> 
