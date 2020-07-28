@@ -4,9 +4,9 @@
 // Variables for connection
 
 $localhost = 'localhost';
-$username = '${{secrets.DB.USERNAME}}'; 
-$password = '${{secrets.DB.PASSWORD}}';
-$dbname = '${{secrets.DB.NAME}}'; 
+$username = 'root'; 
+$password = '';
+$dbname = 'sunset'; 
 
 $connect = mysqli_connect($localhost, $username, $password,$dbname) or die ("Erreur de connexion : " . mysqli_connect_error());
 
