@@ -180,8 +180,6 @@
 <br>
         <h3 class="card-text">Présenté par <b>Linkin</b></h3>
         <p class="card-text">Le Blind Test est un jeu dont le but consiste à deviner l'interprète, le titre ou l'année d'un morceau à partir d'un enregistrement musical diffusé en direct sur Sunset Radio.</p>
-        <br>
-                <h4 class="card-text">Dernier vainqueur : <span class="badge badge-pill badge-success">Juline</span>
                 
       </div>
     </div>
