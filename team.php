@@ -199,7 +199,7 @@
                             <div class="card">
                                 <div class="card-body text-center">
                                     <p><img class=" roundImg" 
-src="https://cdn.discordapp.com/avatars/511996112098426895/a_97ea187a12979505fc34d4dfcf10fc87.gif?size=4096"                                    
+src="https://imgur.com/Cj2giMp.jpg"                                    
 alt="card image"></p>
                                     <h1 class="card-title  color-animation ">Linkin</h1>
                                     <h4 class="card-text"><b>Responsable Animation</b></h4>
@@ -210,7 +210,7 @@ alt="card image"></p>
                             <div class="card">
                                 <div class="card-body text-center mt-4">
                                     <h4 class="card-title  color-animation">Linkin</h4>
-                                    <p class="card-text bigCardText">Est entrain d'écrire...</p>
+                                    <h4 class="card-text ">Je gère les playlists et le planning des émissions</h4>
                                 </div>
                             </div>
                         </div>
@@ -260,10 +260,10 @@ src="https://imgur.com/pQM1muR.jpg"
                 <div class="card">
                     <div class="card-body text-center mt-4">
                         <h4 class="card-title  color-modo">Juline</h4>
-                        <p class="card-text bigCardText">
+                        <h4 class="card-text">
                        Je suis à l'écoute de la communauté, prête à répondre à vos questions
                         
-                        </p>
+                        </h4>
                     </div>
                 </div>
             </div>
@@ -294,10 +294,10 @@ src="https://cdn.discordapp.com/avatars/395992189500522496/c3b4c484275d94f19cee5
                 <div class="card">
                     <div class="card-body text-center mt-4">
                         <h4 class="card-title  color-modo">Zoug</h4>
-                        <p class="card-text bigCardText">
+                        <h4 class="card-text ">
                         J'aime aider les gens et faire régner la bonne humeur
                         
-                        </p>
+                        </h4>
                     </div>
                 </div>
             </div>
