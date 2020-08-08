@@ -2,7 +2,7 @@
 
 // CountdownSR
 
-var countDownDateSR = new Date("Aug 14, 2020 15:00:00").getTime();
+var countDownDateSR = new Date("Aug 20, 2020 15:00:00").getTime();
 
 
 var x = setInterval( ()=> {
