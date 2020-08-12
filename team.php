@@ -156,7 +156,7 @@
                             <div class="card">
                                 <div class="card-body text-center">
                                     <p><img class=" img-fluid"
-                                     src="https://cdn.discordapp.com/avatars/330476603509571606/3e913a3dd126bef812b882b7a96c0ad7.png?size=4096"
+                                     src="https://imgur.com/456hTba.jpg"
                                      
                                      alt="card image"></p>
                                     <h1 class="card-title  color-direction ">Kruser</h1>
