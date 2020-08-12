@@ -219,6 +219,34 @@ alt="card image"></p>
             </div>
             <!-- /MEMBRE ANIMATION -->
 
+             <!-- MEMBRE ANIMATION -->
+             <div class="col-xs-12 col-sm-6 col-md-4">
+                <div class="image-flip" >
+                    <div class="mainflip flip-0">
+                        <div class="frontside">
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <p><img class=" roundImg" 
+src="https://imgur.com/Cj2giMp.jpg"                                    
+alt="card image"></p>
+                                    <h1 class="card-title  color-animation ">Layla</h1>
+                                    <h4 class="card-text"><b>Animatrice</b></h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="backside">
+                            <div class="card">
+                                <div class="card-body text-center mt-4">
+                                    <h4 class="card-title  color-animation">Layla</h4>
+                                    <h4 class="card-text ">Spécialiste en story telling, surtout les thread horreur !</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- /MEMBRE ANIMATION -->
+
 
             
 
@@ -274,37 +302,7 @@ src="https://imgur.com/pQM1muR.jpg"
 
 
 
-<!-- MEMBRE ASSISTANCE -->
 
-<div class="col-xs-12 col-sm-6 col-md-4">
-    <div class="image-flip" >
-        <div class="mainflip flip-0">
-            <div class="frontside">
-                <div class="card">
-                    <div class="card-body text-center">
-                        <p><img class=" roundImg" 
-src="https://cdn.discordapp.com/avatars/395992189500522496/c3b4c484275d94f19cee548e5fa7f2f0.png?size=4096"
-            alt="card image"></p>
-                        <h1 class="card-title  color-modo ">Zoug</h1>
-                        <h4 class="card-text"><b>Modératrice</b></h4>
-                    </div>
-                </div>
-            </div>
-            <div class="backside">
-                <div class="card">
-                    <div class="card-body text-center mt-4">
-                        <h4 class="card-title  color-modo">Zoug</h4>
-                        <h4 class="card-text ">
-                        J'aime aider les gens et faire régner la bonne humeur
-                        
-                        </h4>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- /MEMBRE ASSISTANCE -->
 
 </section>    
 <!-- /ASSISTANCE -->
