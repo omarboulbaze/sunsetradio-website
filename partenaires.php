@@ -190,6 +190,40 @@ Le but principal est de vous enrichir et de vous permettre de faire des affaires
     </div>
     <!-- /Partenaire slide -->
 
+    <!-- Partenaire slide -->
+ <div class="carousel-item">
+      <div class="mask flex-center">
+        <div class="container">
+          <div class="row align-items-center">
+            <div class="col-md-7 col-12 order-md-1 order-2 pt-3">
+              <h4>Entertainement<br>Habbo</h4>
+              <p>Entertainement Habbo est une organisation qui se spécialise dans le domaine du divertissement au sein de la communauté RP d'HabboCity.
+Ils organisent donc des évènements dans le cadre du RP (Musique, Fashion & People) tels que des festivals, des fashion weeks, des galas, etc. Des aides pour les événements de RPG débutants sont également proposées grâce à de la promotion ainsi que des ressources physiques sur HabboCity.</p>
+              <a href="https://discord.gg/HDr3c5g" target="_blank">REJOINDRE</a> </div>
+            <div class="col-md-5 col-12 order-md-2 order-1"><img src="https://imgur.com/Pj7Lc2D.jpg" class="mx-auto roundImg" alt="slide"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- /Partenaire slide -->
+
+    <!-- Partenaire slide -->
+ <div class="carousel-item">
+      <div class="mask flex-center">
+        <div class="container">
+          <div class="row align-items-center">
+            <div class="col-md-7 col-12 order-md-1 order-2 pt-3">
+              <h4>Actu<br>News</h4>
+              <p>ActuNews est une organisation qui permet principalement de retrouver l'actualité sur différentes catégories : HabboCity, France, International, Gaming, Sport, High-Tech, Cinéma... à travers des articles et des alertes infos où nous communiquons, pour ces dernières, des informations importantes qui pourraient être intéressantes pour un grand nombre de personnes.</p>
+              <a href="https://discord.gg/AsMb97r" target="_blank">REJOINDRE</a> </div>
+            <div class="col-md-5 col-12 order-md-2 order-1"><img src="https://imgur.com/MNGuq6d.jpg" class="mx-auto roundImg" alt="slide"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- /Partenaire slide -->
+
+
   </div>
   <a class="carousel-control-prev" href="#slidePartenaire" role="button" data-slide="prev"> <span class="carousel-control-prev-icon" aria-hidden="true"></span> <span class="sr-only">Previous</span> </a> <a class="carousel-control-next" href="#slidePartenaire" role="button" data-slide="next"> <span class="carousel-control-next-icon" aria-hidden="true"></span> <span class="sr-only">Next</span> </a> </div>
 <!--slide end--> 
