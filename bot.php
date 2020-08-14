@@ -140,7 +140,7 @@
 </section>
 
 <section id="cmd2">
-<h1 class="text-center main"><span class="badge badge-danger">New</span> !musique "Lien YouTube"</h1>
+<h1 class="text-center main"><span class="badge badge-danger">New</span> !musique</h1>
 
 <h4 class="text-center subtext">Suggérer aux animateurs de Sunset Radio vos musiques préférées</h4>
 </section>
