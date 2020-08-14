@@ -99,7 +99,7 @@
 
 
 
-<h1 class="text-center main">Nos 4 partenaires</h1>
+<h1 class="text-center main">Nos 6 partenaires</h1>
 <h3 class="text-center subtext">Sunset Radio vous <i class="fas fa-heart heart"></i></h3>
 
 
