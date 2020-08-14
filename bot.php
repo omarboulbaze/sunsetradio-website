@@ -126,15 +126,23 @@
 <h4 class="text-center subtext">Permettre au bot de vous envoyer un message de guide en privé</h4>
 
 </section>
+
 <section id="cmd2">
-<h1 class="text-center main"><span class="badge badge-danger">New</span> !dedi</h1>
+<h1 class="text-center main">!dedi</h1>
 
 <h4 class="text-center subtext">Envoyer une dédicace aux animateurs</h4>
 </section>
-<section id="cmd3">
-<h1 class="text-center main"><span class="badge badge-danger">New</span> !info</h1>
 
-<h4 class="text-center subtext">Afficher le nombre d'auditeurs sur le site ainsi que dans tous les serveurs Discord</h4>
+<section id="cmd3">
+<h1 class="text-center main">!info</h1>
+
+<h4 class="text-center subtext">Afficher le nombre d'auditeurs sur le site ainsi que dans tous les serveurs Discord et sur le site</h4>
+</section>
+
+<section id="cmd2">
+<h1 class="text-center main"><span class="badge badge-danger">New</span> !musique "Lien YouTube"</h1>
+
+<h4 class="text-center subtext">Suggérer aux animateurs de Sunset Radio vos musiques préférées</h4>
 </section>
 
 
