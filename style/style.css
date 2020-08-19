@@ -42,7 +42,7 @@ font-family: Nunito;
 .aventureSR{
   padding-top: 2rem;
   color: #f3c980 ;
-font-size: 2rem;
+font-size: 4rem;
 }
 
 
@@ -571,6 +571,7 @@ animation-name: slideInRight;
 .bigCardText{
   font-size: 2rem;
 }
+
 
 
 
