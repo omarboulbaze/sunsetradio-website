@@ -47,7 +47,7 @@
   
   <nav class="navbar navbar-expand-lg barreNavSR big navbar-dark bg-dark">
 
-  <a class="navbar-brand" href="index.php">
+  <a class="navbar-brand">
 
     <img src="https://i.imgur.com/DwtzhmQ.png" width="75" height="75" alt="SunsetRadio" loading="lazy">
   </a>
@@ -71,7 +71,7 @@
 
 <div class="container mt-5">
 <div class="d-flex justify-content-center">
-<iframe src="https://www.radioking.com/widgets/player/player.php?id=330331&c=%232C2A46&c2=%23F3C980&f=v&i=0&ii=null&p=1&s=0&li=0&popup=0&plc=0&h=371&l=undefined&a=0&v=2" style="border-radius: 5px; width: 275px; height: 371px; min-width: 0; min-height: 365px; -webkit-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.3);-moz-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.3);box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.3);" frameBorder="0" ></iframe>
+<iframe src="https://www.radioking.com/widgets/player/player.php?id=330331&c=%232C2A46&c2=%23F3C980&f=v&i=0&ii=null&p=1&s=0&li=0&popup=0&plc=0&h=371&l=undefined&a=1&v=2" style="border-radius: 5px; width: 275px; height: 371px; min-width: 0; min-height: 365px; -webkit-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.3);-moz-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.3);box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.3);" frameBorder="0" ></iframe>
 </div>
 
 
