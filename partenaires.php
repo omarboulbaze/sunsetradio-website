@@ -44,7 +44,6 @@
   
   <!-- NAV BAR -->
   <nav class="navbar navbar-expand-lg barreNavSR big navbar-dark bg-dark">
-  <a href="index.php" class="px-5 colorSR"><i class="fas fa-arrow-left"></i></i></a>
   <a class="navbar-brand" href="index.php">
 
     <img src="https://i.imgur.com/DwtzhmQ.png" width="75" height="75" alt="SunsetRadio" loading="lazy">
@@ -118,7 +117,7 @@
 <link href="https://raw.githubusercontent.com/daneden/animate.css/master/animate.css" rel="stylesheet">
 
 <div id="slidePartenaire" class="carousel slide carousel-fade" data-ride="carousel">
-  <div class="carousel-inner">
+  <div class="carousel-inner px-5 py-1 pt-5">
 
     <!-- Partenaire slide -->
     <div class="carousel-item active">

@@ -44,7 +44,6 @@
   
   <!-- NAV BAR -->
   <nav class="navbar navbar-expand-lg barreNavSR big navbar-dark bg-dark">
-  <a href="index.php" class="px-5 colorSR"><i class="fas fa-arrow-left"></i></i></a>
   <a class="navbar-brand" href="index.php">
 
     <img src="https://i.imgur.com/DwtzhmQ.png" width="75" height="75" alt="SunsetRadio" loading="lazy">
@@ -98,23 +97,28 @@
 <div class="container">
 
 
-
 <h1 class="text-center main">Top 20 de la semaine sur Sunset Radio</h1>
 <h3 class="text-center subtext">Le classement des hits actuels <b>votés</b> par notre communauté <i class="fas fa-heart heart"></i></h3>
 <br><br>
+
+
 <div class="d-flex justify-content-center">
-<div id="rk-top-tracks-widget" data-id="sunset-radio-1" data-buy="0" data-count="20"></div><script type="text/javascript" src="https://widget.radioking.io/top-tracks/build/script.min.js"></script>
+<div id="rk-top-tracks-widget" data-id="sunset-radio-1" data-buy="0" data-count="20"></div>
 </div>
+
+
 </div>
 
 
 
 
 <!-- Javascript -->
+
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
 <script src="./script/script.js"></script>
+<script type="text/javascript" src="https://widget.radioking.io/top-tracks/build/script.min.js"></script>
 
 </body>
 </html>

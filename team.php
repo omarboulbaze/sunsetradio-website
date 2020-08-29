@@ -44,7 +44,6 @@
   
   <!-- NAV BAR -->
   <nav class="navbar navbar-expand-lg barreNavSR big navbar-dark bg-dark">
-  <a href="index.php" class="px-5 colorSR"><i class="fas fa-arrow-left"></i></i></a>
   <a class="navbar-brand" href="index.php">
 
     <img src="https://i.imgur.com/DwtzhmQ.png" width="75" height="75" alt="SunsetRadio" loading="lazy">
@@ -116,7 +115,7 @@
 
 <!-- DIRECTION -->
 <section id="teamDirection" class="pb-5">
-    <div class="container">
+  
         <h5 class="section-direction h1 color-direction">Direction</h5>
         <div class="row">
             <!-- MEMBRE DIRECTION -->
@@ -180,7 +179,7 @@
             
 
         </div>
-    </div>
+   
 </section>
 <!-- /DIRECTION -->
 
@@ -188,7 +187,7 @@
 
 <!-- ANIMATION -->
 <section id="teamAnimation" class="pb-5">
-    <div class="container">
+    
         <h5 class="section-direction h1 color-animation">Animation</h5>
         <div class="row">
             <!-- MEMBRE ANIMATION -->
@@ -219,33 +218,7 @@ alt="card image"></p>
             </div>
             <!-- /MEMBRE ANIMATION -->
 
-             <!-- MEMBRE ANIMATION -->
-             <div class="col-xs-12 col-sm-6 col-md-4">
-                <div class="image-flip" >
-                    <div class="mainflip flip-0">
-                        <div class="frontside">
-                            <div class="card">
-                                <div class="card-body text-center">
-                                    <p><img class=" roundImg" 
-src="https://imgur.com/vhvQzfA.jpg"                                    
-alt="card image"></p>
-                                    <h1 class="card-title  color-animation ">Layla</h1>
-                                    <h4 class="card-text"><b>Animatrice</b></h4>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="backside">
-                            <div class="card">
-                                <div class="card-body text-center mt-4">
-                                    <h4 class="card-title  color-animation">Layla</h4>
-                                    <h4 class="card-text ">Spécialiste en story telling, surtout les thread horreur !</h4>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- /MEMBRE ANIMATION -->
+            
 
 
             
@@ -256,14 +229,14 @@ alt="card image"></p>
             
 
         </div>
-    </div>
+    
 </section>
 <!-- /ANIMATION -->
 
 
 <!-- ASSISTANCE -->
 <section id="teamModo" class="pb-5">
-    <div class="container">
+   
         <h5 class="section-direction h1 color-modo">Assistance</h5>
         <div class="row">
             
@@ -277,19 +250,19 @@ alt="card image"></p>
                 <div class="card">
                     <div class="card-body text-center">
                         <p><img class=" roundImg" 
-src="https://imgur.com/pQM1muR.jpg"         
+src="https://imgur.com/7Uq2OBN.png"         
             alt="card image"></p>
-                        <h1 class="card-title  color-modo ">Juline</h1>
-                        <h4 class="card-text"><b>Modératrice</b></h4>
+                        <h1 class="card-title  color-modo ">Sunsetia</h1>
+                        <h4 class="card-text"><b>BOT Discord</b></h4>
                     </div>
                 </div>
             </div>
             <div class="backside">
                 <div class="card">
                     <div class="card-body text-center mt-4">
-                        <h4 class="card-title  color-modo">Juline</h4>
+                        <h4 class="card-title  color-modo">Sunsetia</h4>
                         <h4 class="card-text">
-                       Je suis à l'écoute de la communauté, prête à répondre à vos questions
+                      Mentionnez moi sur Discord pour afficher la liste des commandes
                         
                         </h4>
                     </div>
@@ -302,7 +275,7 @@ src="https://imgur.com/pQM1muR.jpg"
 
 
 
-
+</div>
 
 </section>    
 <!-- /ASSISTANCE -->

@@ -44,7 +44,6 @@
   
   <!-- NAV BAR -->
   <nav class="navbar navbar-expand-lg barreNavSR big navbar-dark bg-dark">
-  <a href="index.php" class="px-5 colorSR"><i class="fas fa-arrow-left"></i></i></a>
   <a class="navbar-brand" href="index.php">
 
     <img src="https://i.imgur.com/DwtzhmQ.png" width="75" height="75" alt="SunsetRadio" loading="lazy">
@@ -95,7 +94,7 @@
 
 
 
-<div class="container-fluid m-0 p-0">
+<div class="container m-0 p-0">
 
 
 
@@ -117,44 +116,17 @@
 <div class="card mx-3" style="width: 1000px">
   <div class="row no-gutters">
     <div class="col-md-4">
-      <img src="./image/lamatinale.jpg" class="card-img resize" alt="...">
-    </div>
-    <div class="col-md-8">
-      <div class="card-body">
-        <h1 class="card-title">La Matinale</h1>
-        <h3 class="card-text"><span class="badge badge-pill badge-danger">EN DIRECT</span> </h3>
-        <h5 class="card-text">Durée : <span class="badge badge-pill badge-info">1h 30min</span> </h5>
-<br>
-<h3 class="card-text">Présenté par <b>EMIL</b></h3>
-
-        <p class="card-text">Sunset Radio vous réveille avec de la bonne humeur,
-         des jeux et des hits du moment pour bien commencer la journée !</p>
-        <br>
-      </div>
-    </div>
-  </div>
-</div>
-</div>
-
-<!-- SHOW FIN -->
-
-
-<!-- SHOW DÉBUT -->
-<div  class="d-flex justify-content-center">
-<div class="card mx-3" style="width: 1000px">
-  <div class="row no-gutters">
-    <div class="col-md-4">
-      <img src="./image/sunsetparty.jpg" class="card-img resize" alt="...">
+      <img src="https://imgur.com/FbItJkS.jpg" class="card-img resize" alt="...">
     </div>
     <div class="col-md-8">
       <div class="card-body">
         <h1 class="card-title">Sunset Party</h1>
-        <h3 class="card-text"><span class="badge badge-pill badge-danger">EN DIRECT</span></h3>
-        <h5 class="card-text">Durée : <span class="badge badge-pill badge-info">60 min</span> </h5>
+        <h3 class="card-text"><span class="badge badge-pill badge-danger">EN DIRECT</span> </h3>
+        <h5 class="card-text">Date : <span class="badge badge-pill badge-info">JEUDI À 21h</span> </h5>
 <br>
-<h3 class="card-text">Présenté par <b>EMIL</b></h3>
+<h3 class="card-text">Présentée par <b>EMIL, Thibault et Valentin</b></h3>
 
-        <p class="card-text">Découvrez les derniers MIX de notre animateur EMIL en direct sur Sunset Radio !</p>
+        <p class="card-text">Des jeux en direct, quizzs et interventions des auditeurs. Retrouvez vos animateurs préférés tous les <b>jeudi soirs à 21h</b> !</p>
         <br>
       </div>
     </div>
@@ -165,59 +137,11 @@
 <!-- SHOW FIN -->
 
 
-<!-- SHOW DÉBUT -->
-<div class="d-flex justify-content-center">
-<div class="card mx-3" style="width: 1000px">
-  <div class="row no-gutters">
-    <div class="col-md-4">
-      <img src="./image/blindtest.jpg" class="card-img" alt="...">
-    </div>
-    <div class="col-md-8">
-      <div class="card-body">
-        <h1 class="card-title">Blind Test</h1>
-        <h3 class="card-text"><span class="badge badge-pill badge-danger">JEU</span> </h3>
-        <h5 class="card-text">Durée : <span class="badge badge-pill badge-info">60 min</span> </h5>
-<br>
-        <h3 class="card-text">Présenté par <b>Linkin</b></h3>
-        <p class="card-text">Le Blind Test est un jeu dont le but consiste à deviner l'interprète, le titre ou l'année d'un morceau à partir d'un enregistrement musical diffusé en direct sur Sunset Radio.</p>
-                
-      </div>
-    </div>
-  </div>
-</div>
-</div>
-<!-- SHOW FIN -->
 
 
 
 
 
-
-
-<!-- SHOW DÉBUT -->
-<div  class="d-flex justify-content-center">
-<div class="card mx-3" style="width: 1000px">
-  <div class="row no-gutters">
-    <div class="col-md-4">
-      <img src="./image/latino.jpg" class="card-img resize" alt="...">
-    </div>
-    <div class="col-md-8">
-      <div class="card-body">
-        <h1 class="card-title">Hits Latino</h1>
-        <h3 class="card-text"><span class="badge badge-pill badge-danger">MUSIQUE</span></h3>
-        <h5 class="card-text">Durée : <span class="badge badge-pill badge-info">60 min</span> </h5>
-<br>
-<h3 class="card-text">Présenté par <b>Maïa</b></h3>
-
-        <p class="card-text">C'est juste Maïa qui joue Despacito en boucle jusqu'à perdre la moitié de nos auditeurs.</p>
-        <br>
-      </div>
-    </div>
-  </div>
-</div>
-</div>
-
-<!-- SHOW FIN -->
 
 
 </div>

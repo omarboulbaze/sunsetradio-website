@@ -44,7 +44,6 @@
   
   <!-- NAV BAR -->
   <nav class="navbar navbar-expand-lg barreNavSR big navbar-dark bg-dark">
-  <a href="index.php" class="px-5 colorSR"><i class="fas fa-arrow-left"></i></i></a>
   <a class="navbar-brand" href="index.php">
 
     <img src="https://i.imgur.com/DwtzhmQ.png" width="75" height="75" alt="SunsetRadio" loading="lazy">
@@ -97,13 +96,20 @@
 
 
 
-<div class="container mb-5">
+<div class="container my-5">
 
 
 
 <h1 class="text-center main">BOT de Sunset Radio</h1>
 <h4 class="text-center subtext">Un bot vous permettant d'écouter Sunset Radio dans votre serveur Discord !</h4>
 
+<br><br>
+
+<div class="text-center">
+<a href="https://discord.com/api/oauth2/authorize?client_id=723152929028177981&permissions=8&scope=bot" target="_blank">
+<button type="button" class="btn btn-success big">Inviter Sunset Radio <i class="fas fa-music"></i></button>
+</a>
+</div>
 
 <br><br>
 
