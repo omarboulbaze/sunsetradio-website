@@ -58,7 +58,7 @@
 
 
 
-  <a href="https://discord.com/invite/KSARukG" target="_blank"><button class="btn btn-outline-light my-2 my-sm-0 big colorSR mx-1"><i class="fab fa-discord"></i> Discord</button></a>
+  <a href="https://discord.com/invite/6XAkPfS" target="_blank"><button class="btn btn-outline-light my-2 my-sm-0 big colorSR mx-1"><i class="fab fa-discord"></i> Discord</button></a>
  
 
 </nav>
