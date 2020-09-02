@@ -98,7 +98,7 @@
 
 
   <!-- header -->
-<h1 class="text-center main">Nos 6 partenaires</h1>
+<h1 class="text-center main">Nos 5 partenaires</h1>
 <h3 class="text-center subtext">Sunset Radio vous <i class="fas fa-heart heart"></i></h3>
 
 
@@ -139,23 +139,6 @@
     </div>
     <!-- /Partenaire slide -->
 
-    <!-- Partenaire slide -->
-    <div class="carousel-item">
-      <div class="mask flex-center">
-        <div class="container">
-          <div class="row align-items-center">
-            <div class="col-md-7 col-12 order-md-1 order-2 pt-3">
-              <h4>City<br>
-              Troc</h4>
-              <p>Citytroc est une organisation officielle basée sur le troc­. C'est le rendez vous incontournable entre les troqueurs, les casinomans et même les amateurs ! 
-Le but principal est de vous enrichir et de vous permettre de faire des affaires ! Nous vous informons aussi de toutes nouveautés liées à l'économie.</p>
-              <a href="https://discord.gg/WpFtZEn" target="_blank">REJOINDRE</a> </div>
-            <div class="col-md-5 col-12 order-md-2 order-1"><img src="https://imgur.com/RJ6X7Mp.jpg" class="mx-auto roundImg" alt="slide"></div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- /Partenaire slide -->
 
  <!-- Partenaire slide -->
  <div class="carousel-item">
