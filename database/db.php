@@ -19,6 +19,7 @@ $conn = mysqli_connect($localhost, $username, $password, $dbname) or die ("Erreu
 // TODO : Comprendre le fonctionnement de cette fonction
 
  function time_spent($datetime, $full = false) {
+date_default_timezone_set('Europe/Paris');
   $now = new DateTime;
   $ago = new DateTime($datetime);
   $diff = $now->diff($ago);
