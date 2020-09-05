@@ -730,23 +730,28 @@ opacity: 0.4;
 .flux-item:hover > .flux-orga{
   transition-duration: 1s;
   opacity: 1;
- top: -55%;
+ top: 0%;
+ height: 4.3rem;
   }
 
 .flux-head{
  position: absolute;
  top: -40px;
  left: -10px;
+ transition-duration: 1s;
 
 }
 
 .flux-orga{
   position: absolute;
-  top: 0%;
+  top: 10%;
   right: 0;
   opacity: 0.5;
   border-radius: 50%;
-  height: 9rem;
+  height: 8rem;
+  padding-right:0.3rem;
+  transition-duration: 1s;
+ 
  }
 
 
@@ -873,7 +878,7 @@ opacity: 0.4;
 .goBack:hover{
   transform: rotate(-360deg);
     opacity: 0.5;
-    font-size: 3rem;
+   
 }
 
 .poles-head{

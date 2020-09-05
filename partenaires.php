@@ -98,7 +98,7 @@
 
 
   <!-- header -->
-<h1 class="text-center main">Nos 5 partenaires</h1>
+<h1 class="text-center main">Nos 6 partenaires</h1>
 <h3 class="text-center subtext">Sunset Radio vous <i class="fas fa-heart heart"></i></h3>
 
 
@@ -199,6 +199,22 @@ Ils organisent donc des évènements dans le cadre du RP (Musique, Fashion & Peo
               <p>ActuNews est une organisation qui permet principalement de retrouver l'actualité sur différentes catégories : HabboCity, France, International, Gaming, Sport, High-Tech, Cinéma... à travers des articles et des alertes infos où nous communiquons, pour ces dernières, des informations importantes qui pourraient être intéressantes pour un grand nombre de personnes.</p>
               <a href="https://discord.gg/AsMb97r" target="_blank">REJOINDRE</a> </div>
             <div class="col-md-5 col-12 order-md-2 order-1"><img src="https://imgur.com/MNGuq6d.jpg" class="mx-auto roundImg" alt="slide"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- /Partenaire slide -->
+
+    <!-- Partenaire slide -->
+ <div class="carousel-item">
+      <div class="mask flex-center">
+        <div class="container">
+          <div class="row align-items-center">
+            <div class="col-md-7 col-12 order-md-1 order-2 pt-3">
+              <h4>New<br>City</h4>
+              <p>NewCity est un RPG de ville dans lequel les membres de cette organisation pourront exercer différents métiers comme par exemple : Pompier, Boulanger, facteur, Maire, Banquier etc...</p>
+              <a href="https://discord.gg/Tut3T7r" target="_blank">REJOINDRE</a> </div>
+            <div class="col-md-5 col-12 order-md-2 order-1"><img src="https://imgur.com/26bixlh.jpg" class="mx-auto roundImg" alt="slide"></div>
           </div>
         </div>
       </div>

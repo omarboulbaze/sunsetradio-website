@@ -1,4 +1,4 @@
-
+<?php include './database/db.php'?>
 <html>
 
 <head>
@@ -126,8 +126,73 @@
   <!-- LIST GROUP -->
   <div class="list-group my-5">
 
-  
+ <?php
 
+$sql = "SELECT * FROM flux ORDER BY id DESC";
+$result = $conn->query($sql);
+
+
+if ($result->num_rows > 0) {
+ 
+ 
+  while($row = $result->fetch_assoc()) {
+
+    $server_id = $row['server_id'];
+    $server_name = $row['server_name'];
+    $server_hash = $row['server_hash'];
+    $type = $row['type'];
+    $pseudo = $row['pseudo'];
+    $info = $row['info'];
+    $timestamp = $row['timestamp'];
+
+    if($type == "success"){
+      echo '<div class="list-group-item list-group-item-action list-group-item-'.$type.' flux-item pointer">
+      <img src="https://api.habbocity.me/avatar_image.php?user='.$pseudo.'&headonly=1&head_direction=2&size=l" class="status flux-head">
+      <b>'.$pseudo.'</b> est désormais <b>'.$info.'</b> dans <b>'.$server_name.'</b>
+      <img src="https://cdn.discordapp.com/icons/'.$server_id.'/'.$server_hash.'.png" class="status flux-orga">
+      <p class="text-muted">'.time_spent($timestamp).'</p>
+      </div>';
+    } else if ($type == "danger") {
+      echo '<div class="list-group-item list-group-item-action list-group-item-'.$type.' flux-item pointer">
+      <img src="https://api.habbocity.me/avatar_image.php?user='.$pseudo.'&headonly=1&head_direction=2&size=l" class="status flux-head">
+      <b>'.$pseudo.'</b> n\'est plus <b>'.$info.'</b> dans <b>'.$server_name.'</b>
+      <img src="https://cdn.discordapp.com/icons/'.$server_id.'/'.$server_hash.'.png" class="status flux-orga">
+      <p class="text-muted">'.time_spent($timestamp).'</p>
+      </div>';
+    } else if ($type == "info") {
+      echo '<div class="list-group-item list-group-item-action list-group-item-'.$type.' flux-item pointer">
+      <img src="https://api.habbocity.me/avatar_image.php?user='.$pseudo.'&headonly=1&head_direction=2&size=l" class="status flux-head">
+      <b>'.$pseudo.'</b> a été promu(e) <b>'.$info.'</b> dans <b>'.$server_name.'</b>
+      <img src="https://cdn.discordapp.com/icons/'.$server_id.'/'.$server_hash.'.png" class="status flux-orga">
+      <p class="text-muted">'.time_spent($timestamp).'</p>
+      </div>';
+    }else if ($type == "dark") {
+      echo '<div class="list-group-item list-group-item-action list-group-item-'.$type.' flux-item pointer">
+      <img src="https://api.habbocity.me/avatar_image.php?user='.$pseudo.'&headonly=1&head_direction=2&size=l" class="status flux-head">
+      <b>'.$pseudo.'</b>  a été viré(e) pour <b>'.$info.'</b> dans <b>'.$server_name.'</b>
+      <img src="https://cdn.discordapp.com/icons/'.$server_id.'/'.$server_hash.'.png" class="status flux-orga">
+      <p class="text-muted">'.time_spent($timestamp).'</p>
+      </div>';
+    }else if ($type == "warning") {
+      echo '<div class="list-group-item list-group-item-action list-group-item-'.$type.' flux-item pointer">
+      <img src="https://api.habbocity.me/avatar_image.php?user='.$pseudo.'&headonly=1&head_direction=2&size=l" class="status flux-head">
+      <b>'.$pseudo.'</b> a reçu un avertissement pour <b>'.$info.'</b> dans <b>'.$server_name.'</b>
+      <img src="https://cdn.discordapp.com/icons/'.$server_id.'/'.$server_hash.'.png" class="status flux-orga">
+      <p class="text-muted">'.time_spent($timestamp).'</p>
+      </div>';
+    }
+    
+   
+  }
+ 
+} else {
+  echo "<h1 class=text-center>Aucun flux n'est disponible pour l'instant</h1>";
+}
+$conn->close();
+
+?>
+
+<!--
 <div class="list-group-item list-group-item-action list-group-item-danger flux-item pointer">
 <img src="https://api.habbocity.me/avatar_image.php?user=Jasown&headonly=1&head_direction=2&size=l" class="status flux-head">
 <b>Jasown</b> a démissionné de son poste de <b>Graphiste</b> dans <b>Draft City</b>
@@ -162,7 +227,7 @@
 <img src=" https://images-ext-2.discordapp.net/external/_qd72n8JVKtttOflPtQgFKNcDhtYCDz_1xA0MYXaJqY/%3Fsize%3D2048/https/cdn.discordapp.com/icons/450726629795168260/5996cd9cc850d180d9739828192a2519.png" class="status flux-orga">
 <p class="text-muted">Il y a 2 jours</p>
 </div>
- 
+ -->
 
 </div>
  <!-- /LIST GROUP -->
