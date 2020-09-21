@@ -914,3 +914,36 @@ opacity: 0.4;
   opacity: 0.75;
 }
 
+.btn-graphiste{
+background-color: #ffadad ;
+border-color:#c47f7f ;
+}
+
+.btn-videaste{
+  background-color: #ffd6a5 ;
+  border-color:#c2a37d ;
+  }
+
+  .btn-dessinateur{
+    background-color: #fdffb6 ;
+    border-color:#96986b ;
+    }
+
+    .btn-pixelartiste{
+      background-color: #caffbf ;
+      border-color:#8eb587 ;
+      }
+
+        .btn-redacteur{
+        background-color: #9bf6ff ;
+        border-color:#70b0b6 ;
+        } 
+        
+        .btn-animateur{
+        background-color: #a0c4ff ;
+        border-color:#6f88af ;
+        }
+        .btn-architecte{
+        background-color: #bdb2ff ;
+        border-color:#948bc5 ;
+        }

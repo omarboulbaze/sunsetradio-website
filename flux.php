@@ -29,8 +29,7 @@
 <link rel="stylesheet" type="text/css" href="./style/style.css"/>
 
 <!-- FAVICON -->
-<link rel="shortcut icon" type="image/png" href="https://i.imgur.com/DwtzhmQ.png"/>
-
+<link rel="shortcut icon" type="image/png" href="https://imgur.com/N0ifElZ.png"/>
 <!-- FONTS -->
 <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet" />
 <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet" />
@@ -48,7 +47,7 @@
  
  <a class="navbar-brand" href="index.php">
 
-   <img src="./image/srLogoTransparentBlack.png" class="status" width="75" height="75" alt="SunsetRadio" loading="lazy">
+   <img src="https://imgur.com/1bGsAjs.png" class="status" width="75" height="75" alt="SunsetRadio" loading="lazy">
  </a>
  
 
@@ -192,42 +191,6 @@ $conn->close();
 
 ?>
 
-<!--
-<div class="list-group-item list-group-item-action list-group-item-danger flux-item pointer">
-<img src="https://api.habbocity.me/avatar_image.php?user=Jasown&headonly=1&head_direction=2&size=l" class="status flux-head">
-<b>Jasown</b> a démissionné de son poste de <b>Graphiste</b> dans <b>Draft City</b>
-<img src=" https://cdn.discordapp.com/icons/454965140329070603/a_db5b3ffeb64ab86ffb91b3772a62da3c.gif?size=2048" class="status flux-orga">
-<p class="text-muted">Il y a quelques secondes</p>
-</div>
-
-<div class="list-group-item list-group-item-action list-group-item-warning flux-item pointer">
-<img src="https://api.habbocity.me/avatar_image.php?user=Jason&headonly=1&head_direction=2&size=l" class="status flux-head">
-<b>Adrien</b> a reçu un avertissement pour <b>Inactivité</b> dans <b>Draft City</b>
-<img src=" https://cdn.discordapp.com/icons/447398074470629416/a_bb7324b82c52c7df62fad4901a0dd57e.gif?size=2048" class="status flux-orga">
-<p class="text-muted">Il y a 2 minutes</p>
-</div>
-
-<div class="list-group-item list-group-item-action list-group-item-info flux-item pointer">
-<img src="https://api.habbocity.me/avatar_image.php?user=Marie&headonly=1&head_direction=2&size=l" class="status flux-head">
-<b>Marie</b> a été promu(e) <b>Responnsable Création</b> dans <b>Draft City</b>
-<img src=" https://cdn.discordapp.com/icons/452416963944251393/1888eb15ee8a63b609f21a16c9cfe777.png?size=2048" class="status flux-orga">
-<p class="text-muted">Il y a 12 minutes</p>
-</div>
-
-<div class="list-group-item list-group-item-action list-group-item-dark flux-item pointer">
-<img src="https://api.habbocity.me/avatar_image.php?user=Antoine&headonly=1&head_direction=2&size=l" class="status flux-head">
-<b>Antoine</b> a été viré(e) pour <b>Manque de respect</b> dans <b>Draft City</b>
-<img src=" https://cdn.discordapp.com/icons/569705245450436638/a_6df6966315a82dd5c47d246d2537b738.gif?size=2048" class="status flux-orga">
-<p class="text-muted">Il y a 35 minutes</p>
-</div>
-
-<div class="list-group-item list-group-item-action list-group-item-success flux-item pointer">
-<img src="https://api.habbocity.me/avatar_image.php?user=Jasown&headonly=1&head_direction=2&size=l" class="status flux-head">
-<b>Jasown</b> est désormais <b>Graphiste</b> dans <b>Draft City</b>
-<img src=" https://images-ext-2.discordapp.net/external/_qd72n8JVKtttOflPtQgFKNcDhtYCDz_1xA0MYXaJqY/%3Fsize%3D2048/https/cdn.discordapp.com/icons/450726629795168260/5996cd9cc850d180d9739828192a2519.png" class="status flux-orga">
-<p class="text-muted">Il y a 2 jours</p>
-</div>
- -->
 
 </div>
  <!-- /LIST GROUP -->

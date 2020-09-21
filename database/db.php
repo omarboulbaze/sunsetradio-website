@@ -10,7 +10,7 @@ $dbname = 'sunsetra_citymode';
 $conn = mysqli_connect($localhost, $username, $password, $dbname) or die ("Erreur de connexion");
 
 
- $conn->query("SET NAMES utf8");
+ $conn->query("SET NAMES utf8mb4");
 
 
 

@@ -29,7 +29,7 @@
 <link rel="stylesheet" type="text/css" href="./style/style.css"/>
 
 <!-- FAVICON -->
-<link rel="shortcut icon" type="image/png" href="https://i.imgur.com/DwtzhmQ.png"/>
+<link rel="shortcut icon" type="image/png" href="https://imgur.com/N0ifElZ.png"/>
 
 <!-- FONTS -->
 <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet" />
@@ -48,7 +48,7 @@
  
  <a class="navbar-brand" href="index.php">
 
-   <img src="./image/srLogoTransparentBlack.png" class="status" width="75" height="75" alt="SunsetRadio" loading="lazy">
+   <img src="https://imgur.com/1bGsAjs.png" class="status" width="75" height="75" alt="SunsetRadio" loading="lazy">
  </a>
  
 

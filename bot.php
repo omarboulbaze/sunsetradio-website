@@ -46,7 +46,7 @@
   <nav class="navbar navbar-expand-lg barreNavSR big navbar-dark bg-dark">
   <a class="navbar-brand" href="index.php">
 
-    <img src="https://i.imgur.com/DwtzhmQ.png" width="75" height="75" alt="SunsetRadio" loading="lazy">
+    <img src="https://imgur.com/cXOTfr2.png" width="75" height="75" alt="SunsetRadio" loading="lazy">
   </a>
   
 

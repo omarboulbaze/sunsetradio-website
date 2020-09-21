@@ -1,4 +1,4 @@
-
+<?php include './database/db.php'?>
 <html>
 
 <head>
@@ -29,8 +29,7 @@
 <link rel="stylesheet" type="text/css" href="./style/style.css"/>
 
 <!-- FAVICON -->
-<link rel="shortcut icon" type="image/png" href="https://i.imgur.com/DwtzhmQ.png"/>
-
+<link rel="shortcut icon" type="image/png" href="https://imgur.com/N0ifElZ.png"/>
 <!-- FONTS -->
 <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet" />
 <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet" />
@@ -48,7 +47,7 @@
  
  <a class="navbar-brand" href="index.php">
 
-   <img src="./image/srLogoTransparentBlack.png" class="status" width="75" height="75" alt="SunsetRadio" loading="lazy">
+   <img src="https://imgur.com/1bGsAjs.png" class="status" width="75" height="75" alt="SunsetRadio" loading="lazy">
  </a>
  
 
@@ -114,13 +113,13 @@
 
 
       <div class="btn-group" role="group" aria-label="Basic example">
-  <button type="button" class="btn btn-secondary">Graphistes</button>
-  <button type="button" class="btn btn-secondary">Vidéastes</button>
-  <button type="button" class="btn btn-secondary">Dessinateurs</button>
-  <button type="button" class="btn btn-secondary">Pixel Artistes</button>
-  <button type="button" class="btn btn-secondary">Rédacteurs</button>
-  <button type="button" class="btn btn-secondary">Animateurs</button>
-  <button type="button" class="btn btn-secondary">Architectes</button>
+  <button id="btn-anim" type="button" class="btn btn-light btn-graphiste"><i class="fas fa-gift"></i> Animateurs</button>
+  <button type="button" class="btn btn-light btn-videaste"><i class="fas fa-home"></i> Architectes</button>
+  <button type="button" class="btn btn-light btn-dessinateur"><i class="fas fa-paint-brush"></i> Dessinateurs</button>
+  <button type="button" class="btn btn-light btn-pixelartiste"><i class="fas fa-cog"></i> Développeur</button>
+  <button type="button" class="btn btn-light btn-redacteur"><i class="fas fa-palette"></i> Graphistes</button>
+  <button type="button" class="btn btn-light btn-animateur"><i class="fas fa-pen"></i> Rédacteurs</button>
+  <button type="button" class="btn btn-light btn-architecte"><i class="fas fa-video"></i> Vidéastes</button>
 </div>
 
 
@@ -130,41 +129,75 @@
 
 
 
+<?php
+
+$sql = "SELECT * FROM player ORDER BY vote DESC";
+$result = $conn->query($sql);
 
 
-<!-- MEMBRE ITEM -->
-<div class="d-flex  flex-row poles-item  mb-3 row status">
-<div class="big text-center  m-auto" style="width:2rem;">1</div>
-<div class="vl"></div>
-<img src="https://api.habbocity.me/avatar_image.php?user=Jonas&headonly=1&head_direction=2&size=l" class="px-5 poles-head status">
-<div class="big my-auto" style="width:15rem;">Paul...</div>
-<div class="vl"></div>
-<div class="big px-1  m-auto" style="width:12rem;"><i class="fas fa-video"></i> Vidéaste</div>
-<div class="vl"></div>
+if ($result->num_rows > 0) {
+ 
+ $count = 1;
+  while($row = $result->fetch_assoc()) {
 
-<div class="big px-1 m-auto"  style="width:12rem;"><i class="fas fa-star" style="color:#e0ba5a"></i> CityJOB</div>
-<div class="vl"></div>
-<div class="big px-1  m-auto"  style="width:12rem;"><i class="fas fa-check"  style="color:#a0d99c;"></i> 23 votes</div>
+    $pseudo = $row['pseudo'];
+    $role = $row['role'];
+    $orga = $row['orga'];
+    $vote = $row['vote'];
+    
+    
 
-</div>
-<!-- MEMBRE END -->
+    if($vote > 1){
+      $word = "votes";
+    }else{
+      $word = "vote";
+    }
 
-<!-- MEMBRE ITEM -->
-<div class="d-flex  flex-row poles-item  mb-3 row status">
-<div class="big text-center  m-auto" style="width:2rem;">1</div>
-<div class="vl"></div>
-<img src="https://api.habbocity.me/avatar_image.php?user=Jasown&headonly=1&head_direction=2&size=l" class="px-5 poles-head status">
-<div class="big my-auto" style="width:15rem;">Jasown</div>
-<div class="vl"></div>
-<div class="big px-1  m-auto" style="width:12rem;"><i class="fas fa-palette"></i> Graphiste</div>
-<div class="vl"></div>
+    if($role == "Animateur"){
+      $icon = '<i class="fas fa-gift"></i>'; 
+    }else if($role == "Architecte"){
+      $icon = '<i class="fas fa-home"></i>'; 
+    }else if($role == "Dessinateur"){
+      $icon = '<i class="fas fa-paint-brush"></i>'; 
+    }else if($role == "Développeur"){
+      $icon = '<i class="fas fa-cog"></i>'; 
+    }else if($role == "Graphiste"){
+      $icon = '<i class="fas fa-palette"></i>'; 
+    }else if($role == "Rédacteur"){
+      $icon = '<i class="fas fa-pen"></i>'; 
+    }else if($role == "Vidéaste"){
+      $icon = '<i class="fas fa-video"></i>'; 
+    }
 
-<div class="big px-1 m-auto"  style="width:12rem;"><i class="fas fa-star" style="color:#e0ba5a"></i> CityJOB</div>
-<div class="vl"></div>
-<div class="big px-1  m-auto"  style="width:12rem;"><i class="fas fa-check" style="color:#a0d99c;"></i> 23 votes</div>
+    echo '<!-- MEMBRE ITEM -->
+    <div id="coliss" class="d-flex  flex-row poles-item  mb-3 row status">
+    <div class="big text-center  m-auto" style="width:2rem;">'.$count.'</div>
+    <div class="vl"></div>
+    <img src="https://api.habbocity.me/avatar_image.php?user='.$pseudo.'&headonly=1&head_direction=2&size=l" class="px-5 poles-head status">
+    <div class="big my-auto" style="width:15rem;">'.$pseudo.'</div>
+    <div class="vl"></div>
+    <div class="big px-1  m-auto" style="width:12rem;">'.$icon.' '.$role.'</div>
+    <div class="vl"></div>
+    
+    <div class="big px-1 m-auto"  style="width:12rem;"><i class="fas fa-star" style="color:#e0ba5a"></i> '.$orga.'</div>
+    <div class="vl"></div>
+    <div class="big px-1  m-auto"  style="width:12rem;"><i class="fas fa-check"  style="color:#a0d99c;"></i> '.$vote.' '.$word.'</div>
+    
+    </div>
+    <!-- MEMBRE END -->';
+    
+   $count++;
+  }
+ 
+} else {
+  echo "<h1 class=text-center>Aucun flux n'est disponible pour l'instant</h1>";
+}
+$conn->close();
 
-</div>
-<!-- MEMBRE END -->
+?>
+
+
+
 
 
 

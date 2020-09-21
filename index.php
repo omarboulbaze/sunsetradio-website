@@ -29,8 +29,7 @@
 <link rel="stylesheet" type="text/css" href="./style/style.css"/>
 
 <!-- FAVICON -->
-<link rel="shortcut icon" type="image/png" href="https://i.imgur.com/DwtzhmQ.png"/>
-
+<link rel="shortcut icon" type="image/png" href="https://imgur.com/N0ifElZ.png"/>
 <!-- FONTS -->
 <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet" />
 <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet" />
@@ -50,7 +49,7 @@
   
   <a class="navbar-brand" href="index.php">
 
-    <img src="https://i.imgur.com/DwtzhmQ.png" width="75" height="75" alt="SunsetRadio" loading="lazy">
+    <img src="https://imgur.com/cXOTfr2.png" width="75" height="75" alt="SunsetRadio" loading="lazy">
   </a>
   
 
@@ -107,7 +106,7 @@
 <div class="container">
 
 
-<img src="./image/srLogoTransparent.png" class="srLogo">
+<img src="https://imgur.com/cXOTfr2.png" class="srLogo">
 <h1 class="text-center aventureSR">Sunset Radio,<br>LA radio de la communauté</h1>
 <br><br>
 <div class="text-center">
