@@ -117,47 +117,16 @@
   
         <h5 class="section-direction h1 color-direction">Direction</h5>
         <div class="row">
-            <!-- MEMBRE DIRECTION -->
-            <div class="col-xs-12 col-sm-6 col-md-4">
-                <div class="image-flip" >
-                    <div class="mainflip flip-0">
-                        <div class="frontside">
-                            <div class="card">
-                                <div class="card-body text-center">
-                                    <p><img class="roundImg" 
-                                    src="https://images-ext-2.discordapp.net/external/PQAXTig9exXcCqGNjfvDgdPo70jWct490Djs4VGHTEA/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/722830975624544327/85f28550f5924d0521b0956839811548.png" 
-                                    alt="card image"></p>
-                                    <h1 class="card-title  color-direction ">Maïa</h1>
-                                    <h4 class="card-text"><b>Fondatrice</b></h4>
-                                    
-                                </div>
-                            </div>
-                        </div>
-                        <div class="backside">
-                            <div class="card">
-                                <div class="card-body text-center mt-4">
-                                    <h4 class="card-title  color-direction">Maïa</h4>
-                                    <p class="card-text bigCardText">Fondatrice de Sunset Radio</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- /MEMBRE DIRECTION -->
            
-            <!-- MEMBRE DIRECTION -->
-            <div class="col-xs-12 col-sm-6 col-md-4">
-                <div class="image-flip" >
+           <!-- MEMBRE DIRECTION -->
+           <div class="col-xs-12 col-sm-6 col-md-4">
+                <div class="image-flip">
                     <div class="mainflip flip-0">
                         <div class="frontside">
                             <div class="card">
                                 <div class="card-body text-center">
-                                    <p><img class=" img-fluid"
-                                     src="https://imgur.com/456hTba.jpg"
-                                     
-                                     alt="card image"></p>
-                                    <h1 class="card-title  color-direction ">Kruser</h1>
+                                    <p><img class="roundImg" src="https://imgur.com/WP844ne.jpg" alt="card image"></p>
+                                    <h1 class="card-title  color-direction ">Omar</h1>
                                     <h4 class="card-text"><b>Développeur</b></h4>
                                 </div>
                             </div>
@@ -165,8 +134,8 @@
                         <div class="backside">
                             <div class="card">
                                 <div class="card-body text-center mt-4">
-                                    <h4 class="card-title  color-direction">Kruser</h4>
-                                    <p class="card-text bigCardText">En charge du développement</p>
+                                    <h4 class="card-title  color-direction">Omar</h4>
+                                    <h4 class="card-text ">En charge du développement</h4>
                                 </div>
                             </div>
                         </div>
@@ -174,6 +143,61 @@
                 </div>
             </div>
             <!-- /MEMBRE DIRECTION -->
+
+              <!-- MEMBRE DIRECTION -->
+           <div class="col-xs-12 col-sm-6 col-md-4">
+                <div class="image-flip">
+                    <div class="mainflip flip-0">
+                        <div class="frontside">
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <p><img class="roundImg" src="https://imgur.com/1zgp6zV.jpg" alt="card image"></p>
+                                    <h1 class="card-title  color-direction ">Paul</h1>
+                                    <h4 class="card-text"><b>Communication & Stratégie</b></h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="backside">
+                            <div class="card">
+                                <div class="card-body text-center mt-4">
+                                    <h4 class="card-title  color-direction">Paul</h4>
+                                    <h4 class="card-text ">Responsable du marketing et de la communication événementielle</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- /MEMBRE DIRECTION -->
+
+              <!-- MEMBRE DIRECTION -->
+           <div class="col-xs-12 col-sm-6 col-md-4">
+                <div class="image-flip">
+                    <div class="mainflip flip-0">
+                        <div class="frontside">
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <p><img class="roundImg" src="https://imgur.com/vujfKF5.jpg" alt="card image"></p>
+                                    <h1 class="card-title  color-direction ">Valentin</h1>
+                                    <h4 class="card-text"><b>Responsable Animation</b></h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="backside">
+                            <div class="card">
+                                <div class="card-body text-center mt-4">
+                                    <h4 class="card-title  color-direction">Valentin</h4>
+                                    <h4 class="card-text">Coordination et Préparation des émissions</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- /MEMBRE DIRECTION -->
+
+
+            
            
             
 
@@ -196,19 +220,17 @@
                         <div class="frontside">
                             <div class="card">
                                 <div class="card-body text-center">
-                                    <p><img class=" roundImg" 
-src="https://imgur.com/Cj2giMp.jpg"                                    
-alt="card image"></p>
-                                    <h1 class="card-title  color-animation ">Linkin</h1>
-                                    <h4 class="card-text"><b>Responsable Animation</b></h4>
+                                    <p><img class="roundImg" src="https://imgur.com/dAWVDPb.jpg" alt="card image"></p>
+                                    <h1 class="card-title  color-animation ">Quentin</h1>
+                                    <h4 class="card-text"><b>Animateur</b></h4>
                                 </div>
                             </div>
                         </div>
                         <div class="backside">
                             <div class="card">
                                 <div class="card-body text-center mt-4">
-                                    <h4 class="card-title  color-animation">Linkin</h4>
-                                    <h4 class="card-text ">Je gère les playlists et le planning des émissions</h4>
+                                    <h4 class="card-title  color-animation">Quentin</h4>
+                                    <h4 class="card-text ">NOUS ALLONS PRENDRE QUENTIN</h4>
                                 </div>
                             </div>
                         </div>

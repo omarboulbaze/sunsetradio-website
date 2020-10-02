@@ -97,7 +97,7 @@
 
 
   <!-- header -->
-<h1 class="text-center main">Nos 6 partenaires</h1>
+<h1 class="text-center main">Nos 2 partenaires</h1>
 <h3 class="text-center subtext">Sunset Radio vous <i class="fas fa-heart heart"></i></h3>
 
 
@@ -118,20 +118,18 @@
 <div id="slidePartenaire" class="carousel slide carousel-fade" data-ride="carousel">
   <div class="carousel-inner px-5 py-1 pt-5">
 
-    <!-- Partenaire slide -->
-    <div class="carousel-item active">
+
+
+<!-- Partenaire slide -->
+<div class="carousel-item active">
       <div class="mask flex-center">
         <div class="container">
           <div class="row align-items-center">
-            <div class="col-md-7 col-12 order-md-1 order-2">
-              <h4>Empire<br>
-              Campus</h4>
-              <p>Empire Campus, est un rpg fort. Nous l’avons vue grandir en force. 
-              Aujourd’hui Empire Campus a un style bien à lui, une organisation bien à lui. 
-              Le projet a connu beaucoup de soutien, et encore aujourd’hui le projet est soutenu 
-              par beaucoup de personnes car Empire Campus possède tout et a le mérite d’être un bon RPG !</p>
-              <a href="https://discord.gg/QqytVjq" target="_blank">REJOINDRE</a> </div>
-            <div class="col-md-5 col-12 order-md-2 order-1"><img src="https://cdn.discordapp.com/icons/716340603339669534/0cb66c14969cee62cf5b07ab78afabe9.png?size=2048" class="mx-auto roundImg" alt="slide"></div>
+            <div class="col-md-7 col-12 order-md-1 order-2 pt-3">
+              <h4>Actu<br>News</h4>
+              <p>ActuNews est une organisation qui permet principalement de retrouver l'actualité sur différentes catégories : HabboCity, France, International, Gaming, Sport, High-Tech, Cinéma... à travers des articles et des alertes infos où nous communiquons, pour ces dernières, des informations importantes qui pourraient être intéressantes pour un grand nombre de personnes.</p>
+              <a href="https://discord.gg/AsMb97r" target="_blank">REJOINDRE</a> </div>
+            <div class="col-md-5 col-12 order-md-2 order-1"><img src="https://imgur.com/MNGuq6d.jpg" class="mx-auto roundImg" alt="slide"></div>
           </div>
         </div>
       </div>
@@ -155,70 +153,11 @@
     </div>
     <!-- /Partenaire slide -->
 
-     <!-- Partenaire slide -->
- <div class="carousel-item">
-      <div class="mask flex-center">
-        <div class="container">
-          <div class="row align-items-center">
-            <div class="col-md-7 col-12 order-md-1 order-2 pt-3">
-              <h4>City<br>Moove</h4>
-              <p>CityMoove est une organisation fondé par Noeline et Sun Depuis le 1er Juillet 2020. Nous nous basons  sur l’animation Discord mais aussi sur le rétro HabboCity ! Effectivement avant cela nous étions CityAntenne une chaîne télévisée. Nous avons changé le projet mais aussi l’équipe !</p>
-              <a href="https://discord.gg/XFMtdnr" target="_blank">REJOINDRE</a> </div>
-            <div class="col-md-5 col-12 order-md-2 order-1"><img src="https://imgur.com/r4R2Not.jpg" class="mx-auto roundImg" alt="slide"></div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- /Partenaire slide -->
+     
 
-    <!-- Partenaire slide -->
- <div class="carousel-item">
-      <div class="mask flex-center">
-        <div class="container">
-          <div class="row align-items-center">
-            <div class="col-md-7 col-12 order-md-1 order-2 pt-3">
-              <h4>Entertainement<br>Habbo</h4>
-              <p>Entertainement Habbo est une organisation qui se spécialise dans le domaine du divertissement au sein de la communauté RP d'HabboCity.
-Ils organisent donc des évènements dans le cadre du RP (Musique, Fashion & People) tels que des festivals, des fashion weeks, des galas, etc. Des aides pour les événements de RPG débutants sont également proposées grâce à de la promotion ainsi que des ressources physiques sur HabboCity.</p>
-              <a href="https://discord.gg/HDr3c5g" target="_blank">REJOINDRE</a> </div>
-            <div class="col-md-5 col-12 order-md-2 order-1"><img src="https://imgur.com/Pj7Lc2D.jpg" class="mx-auto roundImg" alt="slide"></div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- /Partenaire slide -->
+   
 
-    <!-- Partenaire slide -->
- <div class="carousel-item">
-      <div class="mask flex-center">
-        <div class="container">
-          <div class="row align-items-center">
-            <div class="col-md-7 col-12 order-md-1 order-2 pt-3">
-              <h4>Actu<br>News</h4>
-              <p>ActuNews est une organisation qui permet principalement de retrouver l'actualité sur différentes catégories : HabboCity, France, International, Gaming, Sport, High-Tech, Cinéma... à travers des articles et des alertes infos où nous communiquons, pour ces dernières, des informations importantes qui pourraient être intéressantes pour un grand nombre de personnes.</p>
-              <a href="https://discord.gg/AsMb97r" target="_blank">REJOINDRE</a> </div>
-            <div class="col-md-5 col-12 order-md-2 order-1"><img src="https://imgur.com/MNGuq6d.jpg" class="mx-auto roundImg" alt="slide"></div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- /Partenaire slide -->
-
-    <!-- Partenaire slide -->
- <div class="carousel-item">
-      <div class="mask flex-center">
-        <div class="container">
-          <div class="row align-items-center">
-            <div class="col-md-7 col-12 order-md-1 order-2 pt-3">
-              <h4>New<br>City</h4>
-              <p>NewCity est un RPG de ville dans lequel les membres de cette organisation pourront exercer différents métiers comme par exemple : Pompier, Boulanger, facteur, Maire, Banquier etc...</p>
-              <a href="https://discord.gg/Tut3T7r" target="_blank">REJOINDRE</a> </div>
-            <div class="col-md-5 col-12 order-md-2 order-1"><img src="https://imgur.com/26bixlh.jpg" class="mx-auto roundImg" alt="slide"></div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- /Partenaire slide -->
+    
 
 
   </div>

@@ -120,10 +120,10 @@
     <div class="col-md-8">
       <div class="card-body">
         <h1 class="card-title">Sunset Party</h1>
-        <h3 class="card-text"><span class="badge badge-pill badge-danger">EN DIRECT</span> </h3>
-        <h5 class="card-text">Date : <span class="badge badge-pill badge-info">JEUDI À 21h</span> </h5>
+        <h3 class="card-text"><span class="badge badge-pill badge-danger">OPEN MIC</span> </h3>
+        <h5 class="card-text">Date : <span class="badge badge-pill badge-info">VENDREDI À 21h</span> </h5>
 <br>
-<h3 class="card-text">Présentée par <b>EMIL, Thibault et Valentin</b></h3>
+<h3 class="card-text">Présentée par <b>Kruser, Paul et Valentin</b></h3>
 
         <p class="card-text">Des jeux en direct, quizzs et interventions des auditeurs. Retrouvez vos animateurs préférés tous les <b>jeudi soirs à 21h</b> !</p>
         <br>
