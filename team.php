@@ -230,7 +230,33 @@
                             <div class="card">
                                 <div class="card-body text-center mt-4">
                                     <h4 class="card-title  color-animation">Quentin</h4>
-                                    <h4 class="card-text ">NOUS ALLONS PRENDRE QUENTIN</h4>
+                                    <h4 class="card-text ">"NOUS ALLONS PRENDRE QUENTIN"</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- /MEMBRE ANIMATION -->
+
+             <!-- MEMBRE ANIMATION -->
+             <div class="col-xs-12 col-sm-6 col-md-4">
+                <div class="image-flip" >
+                    <div class="mainflip flip-0">
+                        <div class="frontside">
+                            <div class="card">
+                                <div class="card-body text-center">
+                                    <p><img class="roundImg" src="https://imgur.com/0YanRgQ.jpg" alt="card image"></p>
+                                    <h1 class="card-title  color-animation ">Vianney</h1>
+                                    <h4 class="card-text"><b>Animateur</b></h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="backside">
+                            <div class="card">
+                                <div class="card-body text-center mt-4">
+                                    <h4 class="card-title  color-animation">Vianney</h4>
+                                    <h4 class="card-text ">Passionné de techno</h4>
                                 </div>
                             </div>
                         </div>
