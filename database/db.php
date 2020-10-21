@@ -1,7 +1,7 @@
 <?php
 
 // Variables for connection
-
+//testing gitignore
 $localhost = 'sunsetradio.me';
 $username = 'sunsetra_citymode';
 $password = 'w?aTRPYMJx#e';
