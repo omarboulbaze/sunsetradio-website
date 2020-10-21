@@ -1,6 +1,6 @@
-abootstrap
-aw3
 
-afontawesome
+**/abootstrap/*
+**/aw3/*
+**/afontawesome/*
 
 **/database/db.php
