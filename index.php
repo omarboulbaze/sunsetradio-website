@@ -89,7 +89,7 @@
 
 
  
-  <a href="./city.php"><button class="btn btn-outline-light my-2 my-sm-0 big colorSR mx-1"><i class="fas fa-gamepad"></i> Activer le City Mode</button></a>
+ <!-- <a href="./city.php"><button class="btn btn-outline-light my-2 my-sm-0 big colorSR mx-1"><i class="fas fa-gamepad"></i> Activer le City Mode</button></a> -->
 
   
 <button class="navbar-toggler colorSR opacity-half" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
