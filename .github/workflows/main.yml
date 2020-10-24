@@ -14,6 +14,5 @@ jobs:
       with:
         ftp-server: ftp.sunsetradio.me/public_html
         ftp-username: sunsetra_citymode
-        ftp-password: H=mA4=SX_gcU
+        ftp-password: ${{ secrets.FTP_PASSWORD }}
         git-ftp-args: --insecure
-#ekfoek
