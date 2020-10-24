@@ -4,7 +4,7 @@
 
 $localhost = 'sunsetradio.me';
 $username = 'sunsetra_citymode';
-$password = 'w_kC3+WugtME';
+$password = 'H=mA4=SX_gcU';
 $dbname = 'sunsetra_citymode';
 
 $conn = mysqli_connect($localhost, $username, $password, $dbname) or die ("Erreur de connexion");

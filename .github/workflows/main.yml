@@ -13,7 +13,7 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@3.1.1
       with:
         ftp-server: ftp.sunsetradio.me/public_html
-        ftp-username: sunsetra
-        ftp-password: ${{secrets.FTP_PASSWORD}}
+        ftp-username: sunsetra_citymode
+        ftp-password: H=mA4=SX_gcU
         git-ftp-args: --insecure
 #ekfoek
