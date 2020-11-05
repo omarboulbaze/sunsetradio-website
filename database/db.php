@@ -1,6 +1,7 @@
 <?php
 
 // Variables for connection
+// ...
 
 $localhost = 'sunsetradio.me';
 $username = 'sunsetra_citymode';
