@@ -3,10 +3,10 @@
 // Variables for connection
 // ...
 
-$localhost = 'sunsetradio.me';
-$username = 'sunsetra_citymode';
-$password = 'H=mA4=SX_gcU';
-$dbname = 'sunsetra_citymode';
+$localhost = '${{ secrets.LOCAL_HOST }}'; 
+$username = '${{ secrets.USERNAME }}';
+$password = '${{ secrets.PASSWORD }}';
+$dbname = '${{ secrets.DB_NAME }}';
 
 $conn = mysqli_connect($localhost, $username, $password, $dbname) or die ("Erreur de connexion");
 
